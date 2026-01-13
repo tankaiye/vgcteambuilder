@@ -29,7 +29,7 @@ with open(filetoread, encoding="utf-8") as file:
         if monnumber >= 6:
             monnumber = 0
             i += 1
-        filetowrite = "data/teamstotest/10/testfile" + str(i) + ".txt"
+        filetowrite = "data/teamstotest/1/testfile" + str(i) + ".txt"
         with open(filetowrite, "a", encoding="utf-8") as teamfile:
             teamfile.write(line)
 
@@ -44,9 +44,10 @@ with open(filetoread, encoding="utf-8") as file:
         if monnumber >= 6:
             monnumber = 0
             i += 1
-        filetowrite = "data/teamstotest/11/testfile" + str(i) + ".txt"
+        filetowrite = "data/teamstotest/2/testfile" + str(i) + ".txt"
         with open(filetowrite, "a", encoding="utf-8") as teamfile:
             teamfile.write(line)
+
 
 
 
