@@ -1,0 +1,10846 @@
+Incineroar @ Covert Cloak
+Ability: Intimidate
+Level: 50
+Tera Type: Fire
+- Knock Off
+- Protect
+- Flare Blitz
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Protect
+
+Kommo-o @ Throat Spray
+Ability: Overcoat
+Level: 50
+Tera Type: Fire
+- Protect
+- Clanging Scales
+- Aura Sphere
+- Flamethrower
+
+Ribombee @ Focus Sash
+Ability: Shield Dust
+Level: 50
+Tera Type: Fairy
+- Protect
+- Tailwind
+- Fake Tears
+- Moonblast
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Earth Power
+- Blood Moon
+- Vacuum Wave
+- Hyper Voice
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Extreme Speed
+- Tailwind
+- Protect
+
+____
+
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Calm Mind
+- Protect
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+- Spore
+- Follow Me
+- Tailwind
+- Fake Out
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- High Horsepower
+
+
+____
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+
+____
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Quiver Dance
+- Heat Wave
+- Protect
+- Tera Blast
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Taunt
+- Fake Out
+- Parting Shot
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Encore
+- Aurora Veil
+- Blizzard
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+____
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Grass
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Poison
+- Blizzard
+- Icy Wind
+- Encore
+- Aurora Veil
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Hyper Voice
+- Earth Power
+- Blood Moon
+- Vacuum Wave
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Beat Up
+- Follow Me
+- Protect
+
+____
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Low Kick
+- Tera Blast
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+- Protect
+- Stomping Tantrum
+- Earthquake
+- Dragon Claw
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+- Protect
+- Rage Powder
+- Spore
+- Pollen Puff
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Protect
+- Thunderbolt
+- Air Slash
+- Tailwind
+
+____
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Flash Cannon
+- Electro Shot
+- Snarl
+- Body Press
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Normal
+- Muddy Water
+- Hurricane
+- Wide Guard
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+____
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Fake Out
+- Helping Hand
+- Protect
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Ghost
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Protect
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+- Overheat
+- Air Slash
+- Tailwind
+- Will-O-Wisp
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Wave Crash
+- Order Up
+- Earthquake
+- Protect
+
+Tatsugiri @ Safety Goggles
+Ability: Storm Drain
+Level: 50
+Tera Type: Fairy
+- Draco Meteor
+- Muddy Water
+- Helping Hand
+- Protect
+
+
+____
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Fire
+- Icicle Spear
+- Blizzard
+- Aurora Veil
+- Icy Wind
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Vacuum Wave
+- Hyper Voice
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Bulk Up
+- Protect
+- Rage Fist
+- Drain Punch
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+____
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Recover
+- Ice Beam
+- Trick Room
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Torkoal @ Eject Pack
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Overheat
+- Eruption
+- Helping Hand
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Earthquake
+- Facade
+- Protect
+
+Charizard @ Choice Specs
+Ability: Solar Power
+Level: 50
+Tera Type: Ghost
+- Weather Ball
+- Heat Wave
+- Overheat
+- Air Slash
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+- Tailwind
+- Sleep Powder
+- Sunny Day
+- Encore
+
+____
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Encore
+- Aurora Veil
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Fake Out
+- Parting Shot
+- Taunt
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Flip Turn
+- Last Respects
+- Wave Crash
+- Aqua Jet
+
+
+
+
+
+
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Taunt
+- Fake Out
+- Parting Shot
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+____
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Parting Shot
+- Knock Off
+
+Ursaluna-Bloodmoon @ Focus Sash
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Protect
+- Earth Power
+- Hyper Voice
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- Wood Hammer
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Protect
+- Haze
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Close Combat
+- Final Gambit
+- Taunt
+
+____
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Water
+- Snarl
+- Draco Meteor
+- Electro Shot
+- Body Press
+
+Volcarona @ Safety Goggles
+Ability: Flame Body
+Level: 50
+Tera Type: Dragon
+- Heat Wave
+- Rage Powder
+- Will-O-Wisp
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Earth Power
+- Blood Moon
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Haze
+- Tailwind
+- Protect
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Wave Crash
+- Tera Blast
+- Flip Turn
+- Last Respects
+
+Maushold @ Rocky Helmet
+Ability: Friend Guard
+Level: 50
+Tera Type: Poison
+- Protect
+- Follow Me
+- Feint
+- Super Fang
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Protect
+- Tera Blast
+- Quiver Dance
+- Heat Wave
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Power Gem
+- Thunderbolt
+- Shadow Ball
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- High Horsepower
+
+Dragonite @ Choice Band
+Ability: Multiscale
+Level: 50
+Tera Type: Normal
+- Outrage
+- Extreme Speed
+- Ice Spinner
+- Stomping Tantrum
+
+____
+
+Pelipper @ Safety Goggles
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Protect
+- Hurricane
+- Wide Guard
+- Muddy Water
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Steel
+- Life Dew
+- Trick Room
+- Rage Powder
+- Matcha Gotcha
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Protect
+- Tailwind
+- Haze
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Snarl
+- Flash Cannon
+- Electro Shot
+- Body Press
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Fairy
+- Parting Shot
+- Flare Blitz
+- Knock Off
+- Fake Out
+
+Dragapult @ Choice Specs
+Ability: Infiltrator
+Level: 50
+Tera Type: Fairy
+- Draco Meteor
+- Shadow Ball
+- U-turn
+- Tera Blast
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Protect
+- Sucker Punch
+- Kowtow Cleave
+- Swords Dance
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Protect
+- Pollen Puff
+- Spore
+- Rage Powder
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Protect
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+
+____
+
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Weather Ball
+- Hurricane
+- Muddy Water
+- Icy Wind
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+- Moonblast
+- Encore
+- Fake Tears
+- Tailwind
+
+____
+
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Disable
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Nasty Plot
+- Shadow Ball
+- Protect
+
+____
+
+Dragapult @ Choice Band
+Ability: Clear Body
+Level: 50
+Tera Type: Dragon
+- U-turn
+- Dragon Darts
+- Outrage
+- Phantom Force
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Fire
+- Dazzling Gleam
+- Expanding Force
+- Skill Swap
+- Trick Room
+
+Armarouge @ Weakness Policy
+Ability: Weak Armor
+Level: 50
+Tera Type: Psychic
+- Heat Wave
+- Expanding Force
+- Stored Power
+- Endure
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+Tera Type: Ground
+- Close Combat
+- U-turn
+- Earthquake
+- Final Gambit
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Weather Ball
+- Heat Wave
+- Earth Power
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+- Follow Me
+- Helping Hand
+- Psychic
+- Trick Room
+
+____
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Bug
+- Flash Cannon
+- Electro Shot
+- Body Press
+- Draco Meteor
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Flip Turn
+- Aqua Jet
+- Last Respects
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Earthquake
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Taunt
+- Parting Shot
+- Fake Out
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Weather Ball
+- Hurricane
+- Tailwind
+- Protect
+
+____
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+____
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Shadow Ball
+- Make It Rain
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Swords Dance
+- Acrobatics
+- Close Combat
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ground
+- Blizzard
+- Aurora Veil
+- Tera Blast
+- Protect
+
+____
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Protect
+- Follow Me
+- Super Fang
+- Beat Up
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Bulk Up
+- Drain Punch
+- Rage Fist
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+- Blood Moon
+
+____
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Ghost
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Protect
+
+Kingambit @ Assault Vest
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+____
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fire
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Protect
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Incineroar @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- Close Combat
+- Fake Out
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Ghost
+- Solar Blade
+- Close Combat
+- After You
+- Sleep Powder
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+- Expanding Force
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Weather Ball
+- Earth Power
+
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Protect
+- Close Combat
+- Swords Dance
+- Acrobatics
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Protect
+- Electroweb
+- Taunt
+- Follow Me
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Protect
+- Blood Moon
+- Earth Power
+- Yawn
+
+Primarina @ Throat Spray
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+- Protect
+- Hyper Voice
+- Moonblast
+- Haze
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Protect
+- Scale Shot
+- Tailwind
+- Extreme Speed
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Drum Beating
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+____
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Knock Off
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Hurricane
+- Protect
+- Weather Ball
+- Tailwind
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Bug
+- Dragon Pulse
+- Electro Shot
+- Flash Cannon
+- Body Press
+
+Kommo-o @ Throat Spray
+Ability: Overcoat
+Level: 50
+Tera Type: Fairy
+- Clanging Scales
+- Clangorous Soul
+- Aura Sphere
+- Protect
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Grass
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Spore
+- Protect
+- Pollen Puff
+- Rage Powder
+
+____
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Drain Punch
+- Rage Fist
+- Bulk Up
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Follow Me
+- Beat Up
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Fire
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+____
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Stone Edge
+- Tera Blast
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Fire
+- Brave Bird
+- Body Press
+- Bulk Up
+- Tailwind
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+- Dark Pulse
+- Draco Meteor
+- Fire Blast
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Electric
+- Clear Smog
+- Spore
+- Rage Powder
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- Fake Out
+- U-turn
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+- High Horsepower
+- Iron Head
+- Earthquake
+- Protect
+
+____
+
+Gholdengo @ Metal Coat
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Hydreigon @ Safety Goggles
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+- Draco Meteor
+- Protect
+- Tailwind
+- Snarl
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fairy
+- Tera Blast
+- Ice Beam
+- Trick Room
+- Recover
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Earthquake
+- Protect
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Fire
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+____
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Protect
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+- Earthquake
+- High Horsepower
+- Iron Head
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Dragon
+- Bulk Up
+- Drain Punch
+- Protect
+- Rage Fist
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Knock Off
+- Low Kick
+- Tera Blast
+- Rock Slide
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Trick
+- Dazzling Gleam
+- Tera Blast
+
+Maushold @ Safety Goggles
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Taunt
+- Follow Me
+- Beat Up
+- Protect
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Aqua Jet
+- Flip Turn
+- Wave Crash
+- Last Respects
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Taunt
+- Parting Shot
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Encore
+- Aurora Veil
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+
+
+
+
+
+
+____
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ground
+- Blizzard
+- Tera Blast
+- Aurora Veil
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+____
+
+Torkoal @ Eject Pack
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Helping Hand
+- Overheat
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Charizard @ Choice Specs
+Ability: Solar Power
+Level: 50
+Tera Type: Ghost
+- Heat Wave
+- Air Slash
+- Overheat
+- Weather Ball
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Earthquake
+- Protect
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+- Sleep Powder
+- Encore
+- Sunny Day
+- Tailwind
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+____
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Protect
+- Drain Punch
+- Bulk Up
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Follow Me
+- Beat Up
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Protect
+- Tailwind
+- Haze
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Protect
+- Shadow Ball
+- Nasty Plot
+
+____
+
+Ribombee @ Focus Sash
+Ability: Shield Dust
+Level: 50
+Tera Type: Fairy
+- Protect
+- Moonblast
+- Tailwind
+- Fake Tears
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Protect
+- Scale Shot
+- Extreme Speed
+- Tailwind
+
+Incineroar @ Covert Cloak
+Ability: Intimidate
+Level: 50
+Tera Type: Fire
+- Flare Blitz
+- Knock Off
+- Protect
+- Fake Out
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Vacuum Wave
+
+Kommo-o @ Throat Spray
+Ability: Overcoat
+Level: 50
+Tera Type: Fire
+- Protect
+- Clanging Scales
+- Aura Sphere
+- Flamethrower
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Protect
+- Make It Rain
+- Shadow Ball
+- Power Gem
+
+____
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Protect
+- Expanding Force
+- Helping Hand
+- Fake Out
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Protect
+- Wave Crash
+- Earthquake
+- Order Up
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+- Tailwind
+- Overheat
+- Air Slash
+- Will-O-Wisp
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Protect
+- Dire Claw
+- Close Combat
+- Throat Chop
+
+Tatsugiri @ Safety Goggles
+Ability: Storm Drain
+Level: 50
+Tera Type: Fairy
+- Protect
+- Muddy Water
+- Draco Meteor
+- Helping Hand
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Ghost
+- Protect
+- Blood Moon
+- Earth Power
+- Hyper Voice
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Fire
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- U-turn
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Air Slash
+- Tailwind
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Shadow Ball
+- Recover
+- Trick Room
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Protect
+- Yawn
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Knock Off
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ground
+- Tera Blast
+- Aurora Veil
+- Protect
+- Blizzard
+
+____
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Body Press
+- Draco Meteor
+- Flash Cannon
+- Snarl
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Spirit Break
+- Light Screen
+- Reflect
+- Thunder Wave
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Dragon
+- Heat Wave
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Protect
+
+____
+
+Kingambit @ Assault Vest
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Iron Head
+- Kowtow Cleave
+- Low Kick
+- Sucker Punch
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+- Stomping Tantrum
+- Earthquake
+- Dragon Claw
+- Protect
+
+Incineroar @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Fighting
+- Flare Blitz
+- Close Combat
+- Fake Out
+- Knock Off
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Trick
+- Thunderbolt
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Encore
+- Tailwind
+- Grass Knot
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Poison
+- Liquidation
+- Fissure
+- Yawn
+- Protect
+
+Baxcalibur @ Loaded Dice
+Ability: Thermal Exchange
+Level: 50
+Tera Type: Ghost
+- Icicle Spear
+- Scale Shot
+- Ice Shard
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Close Combat
+- Coaching
+- Protect
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Rage Powder
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Ghost
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+____
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Calm Mind
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Knock Off
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Fake Out
+- Spore
+- Wide Guard
+
+____
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Body Press
+- Electro Shot
+- Snarl
+- Flash Cannon
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Trick
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Earthquake
+- Headlong Rush
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+- Matcha Gotcha
+- Trick Room
+- Rage Powder
+- Life Dew
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Protect
+- Haze
+
+Pelipper @ Safety Goggles
+Ability: Drizzle
+Level: 50
+Tera Type: Steel
+- Hurricane
+- Muddy Water
+- Tailwind
+- Protect
+
+____
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Focus Blast
+
+Tatsugiri @ Choice Scarf
+Ability: Storm Drain
+Level: 50
+Tera Type: Ghost
+- Muddy Water
+- Draco Meteor
+- Icy Wind
+- Hydro Pump
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Wave Crash
+- Order Up
+- Earthquake
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Fake Out
+- Helping Hand
+- Protect
+
+Glimmora @ Power Herb
+Ability: Toxic Debris
+Level: 50
+Tera Type: Grass
+- Meteor Beam
+- Earth Power
+- Sludge Bomb
+- Spiky Shield
+
+____
+
+Basculegion @ Mystic Water
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Aqua Jet
+- Last Respects
+- Protect
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Bug
+- Electro Shot
+- Body Press
+- Snarl
+- Flash Cannon
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Extreme Speed
+- Scale Shot
+- Protect
+- Haze
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+- Protect
+- Hurricane
+- Weather Ball
+- Tailwind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+____
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Shadow Ball
+- Make It Rain
+- Power Gem
+- Trick
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Flash Cannon
+- Electro Shot
+- Snarl
+- Body Press
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Haze
+- Tailwind
+- Protect
+
+Pelipper @ Safety Goggles
+Ability: Drizzle
+Level: 50
+Tera Type: Steel
+- Hurricane
+- Muddy Water
+- Wide Guard
+- Protect
+
+____
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fire
+- Expanding Force
+- Hyper Voice
+- Trick Room
+- Protect
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Weather Ball
+- Clear Smog
+- Earth Power
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+- Expanding Force
+- Dazzling Gleam
+- Protect
+- Trick Room
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+- Follow Me
+- Helping Hand
+- Psychic
+- Trick Room
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Ghost
+- Sleep Powder
+- Solar Blade
+- Close Combat
+- After You
+
+Incineroar @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Knock Off
+- Flare Blitz
+- Close Combat
+- Fake Out
+
+____
+
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Follow Me
+- Beat Up
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+____
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Fire
+- Earthquake
+- Dragon Claw
+- Stomping Tantrum
+- Protect
+
+Flamigo @ Focus Sash
+Ability: Scrappy
+Level: 50
+Tera Type: Ghost
+- Close Combat
+- Dual Wingbeat
+- Detect
+- Wide Guard
+
+Ninetales-Alola @ Choice Scarf
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Moonblast
+- Freeze-Dry
+- Icy Wind
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Gholdengo @ Covert Cloak
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+____
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Beat Up
+- Protect
+- Follow Me
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Bulk Up
+- Drain Punch
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Tailwind
+- Haze
+- Protect
+- Scale Shot
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Hyper Voice
+- Vacuum Wave
+- Earth Power
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- High Horsepower
+- Wood Hammer
+- Grassy Glide
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Protect
+- Scale Shot
+- Tailwind
+- Haze
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Psychic
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Trick
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Flash Cannon
+- Electro Shot
+- Body Press
+- Snarl
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+- Protect
+- Muddy Water
+- Hurricane
+- Tailwind
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Protect
+- Facade
+- Headlong Rush
+- Earthquake
+
+____
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Coaching
+- Protect
+- Close Combat
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Ghost
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Baxcalibur @ Loaded Dice
+Ability: Thermal Exchange
+Level: 50
+Tera Type: Ghost
+- Ice Shard
+- Protect
+- Scale Shot
+- Icicle Spear
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Poison
+- Fissure
+- Protect
+- Yawn
+- Liquidation
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Quiver Dance
+- Heat Wave
+- Tera Blast
+- Rage Powder
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- High Horsepower
+- Fake Out
+- Grassy Glide
+
+____
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Spore
+- Rage Powder
+- Sludge Bomb
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Kilowattrel @ Choice Specs
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Volt Switch
+- Thunderbolt
+- Discharge
+- Air Slash
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Ground
+- Earthquake
+- High Horsepower
+- Iron Head
+- Protect
+
+Kommo-o @ Leftovers
+Ability: Overcoat
+Level: 50
+Tera Type: Steel
+- Iron Defense
+- Body Press
+- Throat Chop
+- Protect
+
+____
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Air Slash
+- Tailwind
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Encore
+- Disable
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Taunt
+- Knock Off
+- Parting Shot
+- Fake Out
+
+
+____
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Electroweb
+- Taunt
+- Follow Me
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Stomping Tantrum
+- Haze
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Trick Room
+- Imprison
+- Protect
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+- Flare Blitz
+- Tailwind
+- Dual Wingbeat
+- Will-O-Wisp
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Protect
+
+____
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Parting Shot
+- Fake Out
+- Taunt
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Protect
+- Freeze-Dry
+- Encore
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+____
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Ghost
+- Leaf Blade
+- Close Combat
+- After You
+- Sleep Powder
+
+Dragapult @ Choice Band
+Ability: Clear Body
+Level: 50
+Tera Type: Dragon
+- Dragon Darts
+- Phantom Force
+- Outrage
+- U-turn
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Earth Power
+- Blood Moon
+- Vacuum Wave
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+- Hyper Voice
+- Psychic
+- Helping Hand
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Helping Hand
+- Protect
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Rage Powder
+
+____
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+- Protect
+- Beat Up
+- Population Bomb
+- Follow Me
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Reflect
+- Fake Out
+- Parting Shot
+- Light Screen
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Poison
+- U-turn
+- Grassy Glide
+- Drum Beating
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Poison
+- Protect
+- Earth Power
+- Calm Mind
+- Blood Moon
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+- Rage Powder
+- Trick Room
+- Matcha Gotcha
+- Strength Sap
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Protect
+- Rage Fist
+- Drain Punch
+- Bulk Up
+
+____
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Air Slash
+- Thunderbolt
+- Tailwind
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Pollen Puff
+- Rage Powder
+- Spore
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Trick Room
+- Recover
+
+____
+
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Air Slash
+- Tailwind
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+____
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Protect
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Fire
+- Brave Bird
+- Bulk Up
+- Tailwind
+- Body Press
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Pollen Puff
+- Sludge Bomb
+- Spore
+- Rage Powder
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+- Earthquake
+- Dragon Claw
+- Stomping Tantrum
+- Protect
+
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Flip Turn
+- Phantom Force
+- Last Respects
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Bug
+- Flash Cannon
+- Draco Meteor
+- Electro Shot
+- Body Press
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+- Hurricane
+- Muddy Water
+- Tailwind
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+- Spore
+- Pollen Puff
+- Clear Smog
+- Rage Powder
+
+Kommo-o @ Throat Spray
+Ability: Soundproof
+Level: 50
+Tera Type: Fire
+- Protect
+- Clangorous Soul
+- Flamethrower
+- Clanging Scales
+
+____
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Waterfall
+- Last Respects
+- Aqua Jet
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+- Moonblast
+- Encore
+- Fake Tears
+- Tailwind
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Weather Ball
+- Hurricane
+- Icy Wind
+- Muddy Water
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- U-turn
+
+____
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Torkoal @ Eject Pack
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Overheat
+- Helping Hand
+- Protect
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+- Sleep Powder
+- Sunny Day
+- Rage Powder
+- Tailwind
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Charizard @ Choice Specs
+Ability: Solar Power
+Level: 50
+Tera Type: Ghost
+- Heat Wave
+- Overheat
+- Weather Ball
+- Air Slash
+
+____
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Stellar
+- Fake Out
+- Dire Claw
+- Close Combat
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Ghost
+- Wood Hammer
+- Fake Out
+- U-turn
+- Grassy Glide
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Moonblast
+- Encore
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Burning Jealousy
+- Taunt
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Flip Turn
+- Aqua Jet
+- Last Respects
+
+____
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Beat Up
+- Taunt
+- Follow Me
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Steel
+- Overheat
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- Protect
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Low Kick
+- Tera Blast
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+____
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Parting Shot
+- Knock Off
+- Fake Out
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Drum Beating
+- Grassy Glide
+- Knock Off
+- Fake Out
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet
+
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Earthquake
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Clear Smog
+- Rage Powder
+- Pollen Puff
+- Spore
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Air Slash
+- Tailwind
+- Thunderbolt
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Trick Room
+- Ice Beam
+- Tera Blast
+- Recover
+
+____
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Earthquake
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+- Matcha Gotcha
+- Life Dew
+- Rage Powder
+- Trick Room
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Flash Cannon
+- Electro Shot
+- Body Press
+- Snarl
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Normal
+- Muddy Water
+- Hurricane
+- Wide Guard
+- Protect
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet
+
+____
+
+
+Garchomp @ Clear Amulet
+Ability: Rough Skin
+Level: 50
+Tera Type: Fire
+- Earthquake
+- Dragon Claw
+- Stomping Tantrum
+- Protect
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Parting Shot
+- Will-O-Wisp
+- Fake Out
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+- Brave Bird
+- Taunt
+- Roost
+- Tailwind
+
+Sneasler @ Air Balloon
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Close Combat
+- Coaching
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Protect
+- Blood Moon
+- Earth Power
+- Yawn
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Protect
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Protect
+- Blizzard
+- Icy Wind
+- Encore
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Fake Out
+- Parting Shot
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Protect
+- Swords Dance
+- Close Combat
+- Acrobatics
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Protect
+- Icy Wind
+- Blizzard
+- Encore
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- High Horsepower
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Parting Shot
+- Flare Blitz
+- Knock Off
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Drum Beating
+- Grassy Glide
+- Knock Off
+- Fake Out
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+Tera Type: Water
+- Hyper Voice
+- Moonblast
+- Haze
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Disable
+- Protect
+
+____
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Muddy Water
+- Hurricane
+- Tailwind
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Trick
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Electro Shot
+- Flash Cannon
+- Body Press
+- Snarl
+
+____
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Close Combat
+- Coaching
+- Final Gambit
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Protect
+- Helping Hand
+- Fake Out
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Tailwind
+- Protect
+- Stomping Tantrum
+
+Tatsugiri @ Safety Goggles
+Ability: Storm Drain
+Level: 50
+Tera Type: Fairy
+- Muddy Water
+- Helping Hand
+- Draco Meteor
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Protect
+- Close Combat
+- Throat Chop
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Wave Crash
+- Order Up
+- Protect
+- Earthquake
+
+____
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ground
+- Muddy Water
+- Hurricane
+- Tailwind
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Earthquake
+- Headlong Rush
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Trick
+- Tera Blast
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Psychic
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Trick Room
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Electro Shot
+- Flash Cannon
+- Body Press
+- Snarl
+
+____
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Protect
+- Heat Wave
+- Quiver Dance
+- Tera Blast
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Protect
+- Blood Moon
+- Earth Power
+- Yawn
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Encore
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Taunt
+- Parting Shot
+- Fake Out
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Aqua Jet
+
+____
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+- Brave Bird
+- Bulk Up
+- Roost
+- Tailwind
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Tera Blast
+- Trick
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Rage Fist
+- Close Combat
+- Final Gambit
+- Protect
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Low Kick
+- Tera Blast
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+- High Horsepower
+- Iron Head
+- Rock Slide
+- Protect
+
+____
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Fake Out
+- Parting Shot
+- Knock Off
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Spore
+- Rage Powder
+- Protect
+- Pollen Puff
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Protect
+- Scale Shot
+- Tailwind
+- Haze
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Vacuum Wave
+- Hyper Voice
+
+
+____
+
+Amoonguss @ Covert Cloak
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+- Rage Powder
+- Pollen Puff
+- Spore
+- Protect
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Knock Off
+- Rock Slide
+- Low Kick
+- Tera Blast
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Protect
+- Thunderbolt
+- Air Slash
+- Tailwind
+
+____
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Spirit Break
+- Thunder Wave
+- Reflect
+- Light Screen
+
+Arcanine-Hisui @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Fairy
+- Flare Blitz
+- Rock Slide
+- Will-O-Wisp
+- Protect
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Fire
+- Rage Powder
+- Trick Room
+- Protect
+- Matcha Gotcha
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Fake Out
+- Grassy Glide
+- Drum Beating
+- High Horsepower
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Facade
+- Protect
+- Substitute
+
+____
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Aurora Veil
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Parting Shot
+- Flare Blitz
+- Knock Off
+- Fake Out
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Protect
+- Scale Shot
+- Tailwind
+- Haze
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Parting Shot
+- Knock Off
+- Flare Blitz
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Protect
+- Calm Mind
+- Blood Moon
+- Earth Power
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Dire Claw
+- Close Combat
+- Coaching
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Water
+- Icy Wind
+- Aurora Veil
+- Blizzard
+- Encore
+
+____
+
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Protect
+- Yawn
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Protect
+- Encore
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Dragon
+- Protect
+- Rage Fist
+- Final Gambit
+- Close Combat
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Protect
+- Population Bomb
+- Taunt
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+- Tailwind
+- Moonblast
+- Beat Up
+- Encore
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Protect
+- Blizzard
+- Icy Wind
+- Freeze-Dry
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Knock Off
+- Flare Blitz
+- Fake Out
+- U-turn
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Aurora Veil
+- Protect
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Tailwind
+- Protect
+- Haze
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Protect
+- Quiver Dance
+- Tera Blast
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Stellar
+- Dire Claw
+- Close Combat
+- Fake Out
+- Coaching
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Thunderbolt
+- Follow Me
+- Taunt
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Protect
+- Swords Dance
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Fake Out
+- High Horsepower
+- Wood Hammer
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Stellar
+- Fake Out
+- Coaching
+- Dire Claw
+- Close Combat
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Protect
+- Follow Me
+- Taunt
+- Thunderbolt
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Protect
+- Swords Dance
+- Sucker Punch
+- Kowtow Cleave
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Protect
+- Quiver Dance
+- Tera Blast
+- Heat Wave
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Protect
+- Haze
+- Extreme Speed
+- Scale Shot
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Flip Turn
+- Last Respects
+- Wave Crash
+- Aqua Jet
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Protect
+- Yawn
+- Earth Power
+- Blood Moon
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Parting Shot
+- Taunt
+- Knock Off
+- Fake Out
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Protect
+- Quiver Dance
+- Tera Blast
+- Heat Wave
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ground
+- Protect
+- Aurora Veil
+- Tera Blast
+- Blizzard
+
+____
+
+Tatsugiri @ Safety Goggles
+Ability: Storm Drain
+Level: 50
+Tera Type: Fairy
+- Helping Hand
+- Draco Meteor
+- Muddy Water
+- Protect
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Overheat
+- Shadow Ball
+- Heat Wave
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+- Population Bomb
+- Protect
+- Follow Me
+- Mud Shot
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Tera Blast
+- Protect
+- Helping Hand
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Ice
+- Wave Crash
+- Order Up
+- Earthquake
+- Protect
+
+____
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Tailwind
+- Moonblast
+- Sunny Day
+- Protect
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Weather Ball
+- Helping Hand
+- Yawn
+
+____
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+- High Horsepower
+- Earthquake
+- Iron Head
+- Protect
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fire
+- Expanding Force
+- Tera Blast
+- Dazzling Gleam
+- Trick
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Dire Claw
+- Close Combat
+- Acrobatics
+- Protect
+
+Hydreigon @ Covert Cloak
+Ability: Levitate
+Level: 50
+Tera Type: Fairy
+- Snarl
+- Draco Meteor
+- Tailwind
+- Roar
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Knock Off
+- Rock Slide
+- Tera Blast
+- Low Kick
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Close Combat
+- Rage Fist
+- Taunt
+- Final Gambit
+
+____
+
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Freeze-Dry
+- Aurora Veil
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Salamence @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Fighting
+- Dual Wingbeat
+- Brick Break
+- Tailwind
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+____
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Burning Jealousy
+- Taunt
+- Follow Me
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+
+____
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Fairy
+- Close Combat
+- Dire Claw
+- Coaching
+- Fake Out
+
+Kingambit @ Dread Plate
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+____
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+- Tailwind
+- Hurricane
+- Protect
+- Muddy Water
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Body Press
+- Flash Cannon
+- Electro Shot
+- Draco Meteor
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Earthquake
+- Protect
+- Headlong Rush
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Fairy
+- Knock Off
+- Fake Out
+- Flare Blitz
+- Parting Shot
+
+Sinistcha @ Wiki Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+- Matcha Gotcha
+- Protect
+- Trick Room
+- Rage Powder
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Protect
+- Shadow Ball
+- Nasty Plot
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Protect
+- Scale Shot
+- Haze
+- Tailwind
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Trick
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Electro Shot
+- Body Press
+- Snarl
+- Flash Cannon
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Protect
+- Hurricane
+- Muddy Water
+- Tailwind
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Protect
+- Facade
+- Earthquake
+- Headlong Rush
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+- Rage Powder
+- Life Dew
+- Trick Room
+- Matcha Gotcha
+
+____
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Encore
+- Aurora Veil
+- Protect
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Taunt
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+____
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Tailwind
+- Sunny Day
+- Haze
+- Foul Play
+
+Maushold @ Rocky Helmet
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Beat Up
+- Protect
+- Super Fang
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Knock Off
+- Low Kick
+- Tera Blast
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Bulk Up
+- Rage Fist
+- Drain Punch
+- Protect
+
+Garchomp @ Life Orb
+Ability: Sand Veil
+Level: 50
+Tera Type: Ground
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Thunderbolt
+- Trick
+
+____
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Liquidation
+- Aqua Jet
+- Protect
+- Last Respects
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Fake Out
+- U-turn
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Draco Meteor
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+- Tailwind
+- Moonblast
+- Fake Tears
+- Encore
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Weather Ball
+- Hurricane
+- Icy Wind
+- Muddy Water
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Extreme Speed
+- Tailwind
+- Protect
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+Tera Type: Ghost
+- Heat Wave
+- Aura Sphere
+- Coaching
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Flip Turn
+
+Maushold @ Safety Goggles
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Super Fang
+- Taunt
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Electro Shot
+- Dragon Pulse
+- Thunderbolt
+- Protect
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Tailwind
+- Extreme Speed
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Fire
+- Dragon Claw
+- Stomping Tantrum
+- Earthquake
+- Protect
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+Kingambit @ Assault Vest
+Ability: Defiant
+Level: 50
+Tera Type: Flying
+- Iron Head
+- Sucker Punch
+- Assurance
+- Low Kick
+
+Torkoal @ Eject Pack
+Ability: Drought
+Level: 50
+Tera Type: Flying
+- Overheat
+- Burning Jealousy
+- Helping Hand
+- Protect
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Electric
+- Leaf Storm
+- Sleep Powder
+- Encore
+- Tailwind
+
+____
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Stellar
+- Rage Fist
+- Close Combat
+- Coaching
+- Taunt
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Extreme Speed
+- Haze
+- Protect
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Thunderbolt
+- Electroweb
+- Follow Me
+- Protect
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Gholdengo @ Sitrus Berry
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Ghost
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Freeze-Dry
+- Encore
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Wave Crash
+- Flip Turn
+- Tera Blast
+- Last Respects
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+Tera Type: Stellar
+- Coaching
+- Protect
+- Heat Wave
+- Aura Sphere
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Electroweb
+- Protect
+- Follow Me
+- Taunt
+
+____
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Weather Ball
+- Earth Power
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+- Expanding Force
+- Dazzling Gleam
+- Trick Room
+- Protect
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fire
+- Protect
+- Hyper Voice
+- Expanding Force
+- Trick Room
+
+Incineroar @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- Close Combat
+- Fake Out
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+- Follow Me
+- Helping Hand
+- Trick Room
+- Psychic
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Ghost
+- After You
+- Sleep Powder
+- Solar Blade
+- Close Combat
+
+____
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Throat Chop
+- Dire Claw
+- Protect
+- Close Combat
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+- Imprison
+- Expanding Force
+- Helping Hand
+- Trick Room
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Extreme Speed
+- Stomping Tantrum
+- Protect
+- Scale Shot
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Haze
+- Foul Play
+- Brave Bird
+- Tailwind
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Power Gem
+- Shadow Ball
+- Make It Rain
+- Thunderbolt
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Final Gambit
+- Protect
+- Rage Fist
+- Close Combat
+
+____
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Knock Off
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Shadow Ball
+- Make It Rain
+- Nasty Plot
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Protect
+- Headlong Rush
+- Facade
+- Earthquake
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Ice Beam
+- Tera Blast
+- Recover
+- Trick Room
+
+Flamigo @ Focus Sash
+Ability: Scrappy
+Level: 50
+Tera Type: Stellar
+- Close Combat
+- Protect
+- Tailwind
+- Brave Bird
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+- Protect
+- Pollen Puff
+- Rage Powder
+- Spore
+
+____
+
+Tatsugiri @ Focus Sash
+Ability: Storm Drain
+Level: 50
+Tera Type: Stellar
+- Muddy Water
+- Draco Meteor
+- Icy Wind
+- Protect
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Foul Play
+- Tailwind
+- Taunt
+- Haze
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Order Up
+- Wave Crash
+- Earthquake
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Thunderbolt
+- Power Gem
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+- Extreme Speed
+- Aerial Ace
+- Outrage
+- Stomping Tantrum
+
+____
+
+Archaludon @ Power Herb
+Ability: Stalwart
+Level: 50
+Tera Type: Electric
+- Electro Shot
+- Thunderbolt
+- Draco Meteor
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Final Gambit
+- Close Combat
+- Rage Fist
+- Coaching
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Fake Out
+- Knock Off
+- Flare Blitz
+- U-turn
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Icy Wind
+- Encore
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+____
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Spirit Break
+- Reflect
+- Light Screen
+- Thunder Wave
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Water
+- Body Press
+- Electro Shot
+- Snarl
+- Draco Meteor
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Protect
+
+Volcarona @ Safety Goggles
+Ability: Flame Body
+Level: 50
+Tera Type: Dragon
+- Will-O-Wisp
+- Rage Powder
+- Heat Wave
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
+
+____
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Protect
+- Wave Crash
+- Fissure
+- Yawn
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Baxcalibur @ Loaded Dice
+Ability: Thermal Exchange
+Level: 50
+Tera Type: Ghost
+- Protect
+- Ice Shard
+- Scale Shot
+- Icicle Spear
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Tera Blast
+- Quiver Dance
+- Heat Wave
+- Rage Powder
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Close Combat
+- Dire Claw
+- Coaching
+
+____
+
+Torkoal @ Eject Pack
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Overheat
+- Eruption
+- Clear Smog
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+Charizard @ Choice Specs
+Ability: Solar Power
+Level: 50
+Tera Type: Ghost
+- Heat Wave
+- Air Slash
+- Weather Ball
+- Overheat
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Trick Room
+- Recover
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+- Tailwind
+- Sunny Day
+- Sleep Powder
+- Pollen Puff
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Protect
+- Haze
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Protect
+- Icy Wind
+- Encore
+
+Kingambit @ Assault Vest
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Sucker Punch
+- Iron Head
+- Low Kick
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+- Matcha Gotcha
+- Trick Room
+- Rage Powder
+- Life Dew
+
+____
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Fire
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Close Combat
+- Rage Fist
+- Final Gambit
+- Taunt
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Aurora Veil
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+____
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Fairy
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Pollen Puff
+- Rage Powder
+- Protect
+- Spore
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Shadow Ball
+- Protect
+- Nasty Plot
+- Make It Rain
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Flare Blitz
+- Knock Off
+- Fake Out
+- U-turn
+
+Flamigo @ Focus Sash
+Ability: Scrappy
+Level: 50
+Tera Type: Ghost
+- Detect
+- Brave Bird
+- Tailwind
+- Close Combat
+
+____
+
+Arcanine-Hisui @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Protect
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Water
+- Blizzard
+- Icy Wind
+- Disable
+- Aurora Veil
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Encore
+- Tailwind
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Normal
+- Close Combat
+- Rage Fist
+- Taunt
+- Coaching
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Protect
+- Acrobatics
+- Close Combat
+- Swords Dance
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+Tera Type: Steel
+- Protect
+- Draco Meteor
+- Heat Wave
+- Nasty Plot
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Flip Turn
+- Wave Crash
+- Last Respects
+- Aqua Jet
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Protect
+- Knock Off
+- Follow Me
+- Helping Hand
+
+____
+
+Rillaboom @ Coba Berry
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Steel
+- Close Combat
+- Rage Fist
+- Coaching
+- Final Gambit
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Protect
+- Tailwind
+- Scale Shot
+- Haze
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Heat Wave
+- Will-O-Wisp
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Vacuum Wave
+
+____
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Steel
+- Hurricane
+- Tailwind
+- Weather Ball
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Dark
+- Rage Powder
+- Spore
+- Clear Smog
+- Protect
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+- Aqua Jet
+- Wave Crash
+- Flip Turn
+- Last Respects
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Grass
+- Electro Shot
+- Draco Meteor
+- Body Press
+- Flash Cannon
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+____
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Follow Me
+- Protect
+- Beat Up
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- High Horsepower
+- Fake Out
+- Grassy Glide
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Protect
+- Haze
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Protect
+- Nasty Plot
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Protect
+- Bulk Up
+
+____
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Draco Meteor
+- Electro Shot
+- Flash Cannon
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Pelipper @ Rocky Helmet
+Ability: Drizzle
+Level: 50
+Tera Type: Steel
+- Weather Ball
+- Hurricane
+- Muddy Water
+- Wide Guard
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+- Moonblast
+- Taunt
+- Fake Tears
+- Tailwind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect
+
+____
+
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- High Horsepower
+- Wood Hammer
+- Grassy Glide
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Sucker Punch
+- Kowtow Cleave
+- Protect
+- Swords Dance
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Fake Out
+- Dire Claw
+- Close Combat
+- Coaching
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Earth Power
+- Blood Moon
+- Yawn
+- Protect
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Moonblast
+- Encore
+- Protect
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Icy Wind
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+____
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Tailwind
+- Encore
+- Sunny Day
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+- Hyper Voice
+- Psychic
+- Trick Room
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Overheat
+- Shadow Ball
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Protect
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Tera Blast
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Freeze-Dry
+- Encore
+- Protect
+
+Kingambit @ Dread Plate
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Heat Wave
+- Follow Me
+- Will-O-Wisp
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Close Combat
+- Dire Claw
+- Fake Out
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+____
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Stellar
+- Protect
+- Dire Claw
+- Close Combat
+- Fake Out
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Protect
+- Blizzard
+- Encore
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Taunt
+- Protect
+- Burning Jealousy
+- Follow Me
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- U-turn
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Protect
+- Sucker Punch
+- Kowtow Cleave
+- Swords Dance
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fairy
+- Last Respects
+- Tera Blast
+- Wave Crash
+- Flip Turn
+
+____
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Moonblast
+- Icy Wind
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Knock Off
+- Fake Out
+
+Tatsugiri @ Wide Lens
+Ability: Storm Drain
+Level: 50
+Tera Type: Steel
+- Draco Meteor
+- Muddy Water
+- Nasty Plot
+- Protect
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Fire
+- Order Up
+- Wave Crash
+- Substitute
+- Protect
+
+Sneasler @ Clear Amulet
+Ability: Poison Touch
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Close Combat
+- Shadow Claw
+- Protect
+
+Gholdengo @ Sitrus Berry
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+____
+
+Dondozo @ Covert Cloak
+Ability: Unaware
+Level: 50
+Tera Type: Steel
+- Wave Crash
+- Order Up
+- Heavy Slam
+- Protect
+
+Tatsugiri @ Focus Sash
+Ability: Storm Drain
+Level: 50
+Tera Type: Ghost
+- Muddy Water
+- Dragon Pulse
+- Taunt
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Close Combat
+- Rage Fist
+- Coaching
+- Final Gambit
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+- Heat Wave
+- Struggle Bug
+- Will-O-Wisp
+- Tailwind
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Extreme Speed
+- Haze
+- Protect
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Grass
+- Draco Meteor
+- Flash Cannon
+- Electro Shot
+- Protect
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Nasty Plot
+- Make It Rain
+- Shadow Ball
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Protect
+- Rage Fist
+- Drain Punch
+- Bulk Up
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Protect
+- Scale Shot
+- Haze
+- Tailwind
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Protect
+- Super Fang
+- Beat Up
+- Follow Me
+
+
+____
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Hurricane
+- Icy Wind
+- Weather Ball
+- Muddy Water
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- U-turn
+- Flare Blitz
+- Fake Out
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+- Fake Tears
+- Encore
+- Moonblast
+- Tailwind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+- Protect
+- Tera Blast
+- Shadow Ball
+- Make It Rain
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Draco Meteor
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Liquidation
+- Protect
+- Aqua Jet
+- Last Respects
+
+____
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Flip Turn
+- Aqua Jet
+- Last Respects
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Earth Power
+- Protect
+- Blood Moon
+- Yawn
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- High Horsepower
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Taunt
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Protect
+- Aurora Veil
+- Blizzard
+- Encore
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Tera Blast
+- Heat Wave
+- Quiver Dance
+- Protect
+
+____
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Protect
+- Rage Powder
+- Clear Smog
+- Spore
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Helping Hand
+- Heat Wave
+- Protect
+- Eruption
+
+Dragonite @ Loaded Dice
+Ability: Inner Focus
+Level: 50
+Tera Type: Steel
+- Tailwind
+- Protect
+- Scale Shot
+- Haze
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Grass
+- Recover
+- Tera Blast
+- Ice Beam
+- Trick Room
+
+Typhlosion-Hisui @ Life Orb
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Shadow Ball
+- Heat Wave
+- Protect
+- Eruption
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Headlong Rush
+- Protect
+- Earthquake
+- Facade
+
+____
+
+Farigiraf @ Sitrus Berry
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+- Psychic Noise
+- Trick Room
+- Helping Hand
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Flying
+- Knock Off
+- Flare Blitz
+- U-turn
+- Fake Out
+
+Hydreigon @ Safety Goggles
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+- Draco Meteor
+- Snarl
+- Tailwind
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Normal
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+____
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Taunt
+- Follow Me
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- U-turn
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Swords Dance
+- Close Combat
+- Acrobatics
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Flare Blitz
+- U-turn
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Blizzard
+- Freeze-Dry
+- Encore
+- Protect
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Haze
+- Tailwind
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+- Heat Wave
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Earth Power
+- Blood Moon
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Reflect
+- Light Screen
+- Spirit Break
+- Thunder Wave
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Draco Meteor
+- Flash Cannon
+- Snarl
+- Body Press
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Haze
+- Tailwind
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+- Heat Wave
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Earth Power
+- Blood Moon
+- Protect
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Reflect
+- Light Screen
+- Spirit Break
+- Thunder Wave
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Draco Meteor
+- Flash Cannon
+- Snarl
+- Body Press
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Protect
+- Swords Dance
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Protect
+- Encore
+- Aurora Veil
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- High Horsepower
+
+____
+
+Tatsugiri @ Choice Scarf
+Ability: Storm Drain
+Level: 50
+Tera Type: Ghost
+- Draco Meteor
+- Muddy Water
+- Icy Wind
+- Tera Blast
+
+Garganacl @ Leftovers
+Ability: Purifying Salt
+Level: 50
+Tera Type: Ghost
+- Salt Cure
+- Recover
+- Stealth Rock
+- Protect
+
+Dondozo @ Covert Cloak
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+- Wave Crash
+- Order Up
+- Earthquake
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Stomping Tantrum
+- Tailwind
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Ghost
+- Close Combat
+- Dire Claw
+- Coaching
+- Protect
+
+____
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Vacuum Wave
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Protect
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Protect
+- Close Combat
+- Acrobatics
+- Swords Dance
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Disable
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Taunt
+- Parting Shot
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Grass
+- Protect
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+
+
+____
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Icy Wind
+- Encore
+- Blizzard
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Swords Dance
+- Close Combat
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Protect
+- Yawn
+
+____
+
+Archaludon @ Power Herb
+Ability: Stamina
+Level: 50
+Tera Type: Electric
+- Protect
+- Thunderbolt
+- Dragon Pulse
+- Electro Shot
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Protect
+- Close Combat
+- Dire Claw
+- Acrobatics
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Fake Out
+- U-turn
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- U-turn
+- Grassy Glide
+- Fake Out
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Protect
+- Blizzard
+- Icy Wind
+- Aurora Veil
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Protect
+- Blood Moon
+- Earth Power
+- Taunt
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Earthquake
+- Headlong Rush
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Fake Out
+- Flare Blitz
+- Knock Off
+- U-turn
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Air Slash
+- Tailwind
+- Protect
+
+
+____
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Psychic
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+- Protect
+- Hyper Voice
+- Twin Beam
+- Trick Room
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Protect
+- Spore
+- Pollen Puff
+- Rage Powder
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+- Protect
+- Encore
+- Blizzard
+- Freeze-Dry
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Wave Crash
+- Tera Blast
+- Last Respects
+- Flip Turn
+
+Kingambit @ Assault Vest
+Ability: Defiant
+Level: 50
+Tera Type: Flying
+- Kowtow Cleave
+- Iron Head
+- Sucker Punch
+- Low Kick
+
+____
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Protect
+- Heat Wave
+- Follow Me
+- Taunt
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Dire Claw
+- Acrobatics
+- Protect
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Moonblast
+- Encore
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Protect
+- Swords Dance
+- Kowtow Cleave
+- Sucker Punch
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- High Horsepower
+- Grassy Glide
+- Wood Hammer
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+____
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Beat Up
+- Follow Me
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Drain Punch
+- Rage Fist
+- Bulk Up
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Haze
+- Scale Shot
+- Tailwind
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- U-turn
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Tailwind
+- Moonblast
+- Sunny Day
+- Encore
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Overheat
+- Shadow Ball
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Protect
+- Hyper Voice
+- Blood Moon
+- Earth Power
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+- Protect
+- Hyper Voice
+- Psychic
+- Trick Room
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Vacuum Wave
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Follow Me
+- Beat Up
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+____
+
+Charizard @ Choice Specs
+Ability: Solar Power
+Level: 50
+Tera Type: Ghost
+- Heat Wave
+- Overheat
+- Weather Ball
+- Dragon Pulse
+
+Torkoal @ Eject Pack
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Protect
+- Eruption
+- Overheat
+- Helping Hand
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Protect
+- Facade
+- Headlong Rush
+- Earthquake
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+- Sleep Powder
+- Tailwind
+- Sunny Day
+- Rage Powder
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dark
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Dragonite @ Assault Vest
+Ability: Inner Focus
+Level: 50
+Tera Type: Flying
+- Extreme Speed
+- Stomping Tantrum
+- Ice Spinner
+- Tera Blast
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Aurora Veil
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+Dragapult @ Choice Band
+Ability: Clear Body
+Level: 50
+Tera Type: Ghost
+- Phantom Force
+- Dragon Darts
+- Tera Blast
+- U-turn
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+____
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- U-turn
+- Fake Out
+- Grassy Glide
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Ghost
+- Kowtow Cleave
+- Swords Dance
+- Sucker Punch
+- Protect
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Water
+- Blizzard
+- Disable
+- Encore
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Close Combat
+- Dire Claw
+- Coaching
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Electric
+- Wave Crash
+- Curse
+- Yawn
+- Protect
+
+____
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Electroweb
+- Taunt
+- Follow Me
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Close Combat
+- Dire Claw
+- Throat Chop
+- Protect
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Quiver Dance
+- Fiery Dance
+- Tera Blast
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Extreme Speed
+- Haze
+- Protect
+
+____
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Fake Out
+- U-turn
+- Knock Off
+- Flare Blitz
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Air Slash
+- Tailwind
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+____
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+- Tailwind
+- Moonblast
+- Sunny Day
+- Encore
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Protect
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+- Trick Room
+- Protect
+- Hyper Voice
+- Psychic
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Overheat
+
+____
+
+Gholdengo @ Metal Coat
+Ability: Good as Gold
+Level: 50
+Tera Type: Fire
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Fake Out
+- Flare Blitz
+- Knock Off
+- U-turn
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Tailwind
+- Encore
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Last Respects
+- Wave Crash
+- Flip Turn
+- Tera Blast
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Electroweb
+- Taunt
+- Follow Me
+- Protect
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Protect
+
+
+____
+
+Ursaluna-Bloodmoon @ Silk Scarf
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Protect
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Heat Wave
+- Protect
+- Trick Room
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Water
+- Psychic
+- Follow Me
+- Trick Room
+- Imprison
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Beat Up
+- Tailwind
+- Sunny Day
+
+Annihilape @ Leftovers
+Ability: Defiant
+Level: 50
+Tera Type: Fairy
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+- Eruption
+- Flamethrower
+- Shadow Ball
+- Solar Beam
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Covert Cloak
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+____
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Flare Blitz
+- U-turn
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Electroweb
+- Follow Me
+- Taunt
+- Protect
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Throat Chop
+- Close Combat
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Protect
+- Trick Room
+- Helping Hand
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+____
+
+Grimmsnarl @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Grass
+- Spirit Break
+- Light Screen
+- Reflect
+- Thunder Wave
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Fire
+- Brave Bird
+- Body Press
+- Bulk Up
+- Roost
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Protect
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+- Draco Meteor
+- Dark Pulse
+- Snarl
+- Protect
+
+Garchomp @ Clear Amulet
+Ability: Rough Skin
+Level: 50
+Tera Type: Ground
+- Earthquake
+- Rock Slide
+- Stomping Tantrum
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
+
+____
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Recover
+- Trick Room
+- Ice Beam
+
+Amoonguss @ Rocky Helmet
+Ability: Regenerator
+Level: 50
+Tera Type: Fairy
+- Protect
+- Rage Powder
+- Spore
+- Pollen Puff
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Parting Shot
+- Knock Off
+- Flare Blitz
+
+Gholdengo @ Metal Coat
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Protect
+- Nasty Plot
+- Shadow Ball
+- Make It Rain
+
+Hydreigon @ Safety Goggles
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+- Protect
+- Tailwind
+- Snarl
+- Draco Meteor
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Protect
+- Headlong Rush
+- Facade
+- Earthquake
+
+____
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Foul Play
+- Tailwind
+- Haze
+- Rain Dance
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Bug
+- Body Press
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Earth Power
+- Protect
+- Hyper Voice
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+- Wide Guard
+- Hurricane
+- Weather Ball
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Taunt
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+
+____
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Vacuum Wave
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Super Fang
+- Beat Up
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Tailwind
+- Haze
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Icy Wind
+- Muddy Water
+- Weather Ball
+- Hurricane
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Thunderbolt
+- Electro Shot
+- Protect
+- Draco Meteor
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+- Moonblast
+- Tailwind
+- Fake Tears
+- Encore
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+- Last Respects
+- Aqua Jet
+- Liquidation
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- U-turn
+- Knock Off
+
+____
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Parting Shot
+- Fake Out
+- Knock Off
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+- Dragon Claw
+- Earthquake
+- Stomping Tantrum
+- Protect
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Encore
+- Tailwind
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Thunderbolt
+- Shadow Ball
+- Trick
+
+Dragonite @ Choice Band
+Ability: Inner Focus
+Level: 50
+Tera Type: Normal
+- Outrage
+- Extreme Speed
+- Giga Impact
+- Ice Spinner
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Dire Claw
+- Close Combat
+- Protect
+- Fake Out
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Taunt
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Ursaluna-Bloodmoon @ Covert Cloak
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Calm Mind
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Icy Wind
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Flip Turn
+- Last Respects
+- Aqua Jet
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Extreme Speed
+- Haze
+- Protect
+
+____
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+- Weather Ball
+- Hurricane
+- Tailwind
+- Protect
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+- Population Bomb
+- Follow Me
+- Taunt
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Water
+- Wave Crash
+- Flip Turn
+- Last Respects
+- Aqua Jet
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+- Electro Shot
+- Flash Cannon
+- Body Press
+- Snarl
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+____
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+- Flare Blitz
+- Knock Off
+- U-turn
+- Fake Out
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Wave Crash
+- Last Respects
+- Flip Turn
+- Tera Blast
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Moonblast
+- Tailwind
+- Encore
+- Protect
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+- Electroweb
+- Taunt
+- Follow Me
+- Protect
+
+Gholdengo @ Metal Coat
+Ability: Good as Gold
+Level: 50
+Tera Type: Fire
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+____
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Flying
+- Kowtow Cleave
+- Sucker Punch
+- Protect
+- Tera Blast
+
+Arcanine-Hisui @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Flare Blitz
+- Rock Slide
+- Protect
+- Extreme Speed
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Scale Shot
+- Low Kick
+- Protect
+- Haze
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Close Combat
+- Fake Out
+- Coaching
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Protect
+- Quiver Dance
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- High Horsepower
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Disable
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Parting Shot
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+____
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Life Orb
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Moonblast
+- Encore
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Ghost
+- Wood Hammer
+- Grassy Glide
+- U-turn
+- Fake Out
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Burning Jealousy
+- Taunt
+- Follow Me
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Poison Touch
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Close Combat
+- Fake Out
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Fighting
+- Wave Crash
+- Flip Turn
+- Last Respects
+- Tera Blast
+
+____
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+- Brave Bird
+- Bulk Up
+- Tailwind
+- Roost
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+- Rock Slide
+- Tera Blast
+- Knock Off
+- Low Kick
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Stellar
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Tera Blast
+- Trick
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Rage Fist
+- Close Combat
+- Final Gambit
+- Taunt
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+- High Horsepower
+- Iron Head
+- Earthquake
+- Protect
+
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Protect
+- Scale Shot
+- Tailwind
+- Haze
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Icy Wind
+- Blizzard
+- Icicle Spear
+- Aurora Veil
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Hyper Voice
+- Earth Power
+- Vacuum Wave
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+____
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Protect
+- Haze
+- Tailwind
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dark
+- Follow Me
+- Thunderbolt
+- Electroweb
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Covert Cloak
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Blood Moon
+- Earth Power
+- Protect
+- Yawn
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Stellar
+- Rage Fist
+- Protect
+- Close Combat
+- Taunt
+
+____
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Beat Up
+- Super Fang
+- Follow Me
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Drum Beating
+- High Horsepower
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Protect
+- Icy Wind
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Knock Off
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Swords Dance
+- Acrobatics
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+____
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Extreme Speed
+- Haze
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Follow Me
+- Thunderbolt
+- Taunt
+- Protect
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+- Dire Claw
+- Close Combat
+- Coaching
+- Fake Out
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+____
+
+Kommo-o @ Leftovers
+Ability: Soundproof
+Level: 50
+Tera Type: Fire
+- Body Press
+- Flamethrower
+- Iron Defense
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Shadow Ball
+- Trick
+- Protect
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Foul Play
+- Perish Song
+- Tailwind
+- Protect
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Close Combat
+- Rage Fist
+- Final Gambit
+- Taunt
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Dragon Pulse
+- Electro Shot
+- Thunderbolt
+- Protect
+
+Maushold @ Covert Cloak
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Feint
+- Follow Me
+- Protect
+
+____
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Grass
+- Brave Bird
+- Taunt
+- Tailwind
+- Will-O-Wisp
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Spore
+- Rage Powder
+- Pollen Puff
+- Protect
+
+Sneasler @ White Herb
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Archaludon @ Power Herb
+Ability: Stalwart
+Level: 50
+Tera Type: Electric
+- Electro Shot
+- Dragon Pulse
+- Thunderbolt
+- Protect
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+- Stomping Tantrum
+- Dragon Claw
+- Earthquake
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Aurora Veil
+- Icy Wind
+- Encore
+
+____
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+- Tera Blast
+- Ice Beam
+- Recover
+- Trick Room
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+- Pollen Puff
+- Spore
+- Rage Powder
+- Protect
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Dragon
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+- Thunderbolt
+- Air Slash
+- Tailwind
+- Protect
+
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+- Earth Power
+- Hyper Voice
+- Blood Moon
+- Protect
+
+Maushold @ Focus Sash
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+- Super Fang
+- Beat Up
+- Follow Me
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Scale Shot
+- Haze
+- Tailwind
+- Protect
+
+Annihilape @ Sitrus Berry
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Protect
+
+
+____
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Parting Shot
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Wood Hammer
+- Fake Out
+- Grassy Glide
+- High Horsepower
+
+Ursaluna-Bloodmoon @ Covert Cloak
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+____
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Psychic
+- Protect
+- Rage Powder
+- Sludge Bomb
+- Spore
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+- Knock Off
+- Flare Blitz
+- Parting Shot
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Shadow Ball
+- Make It Rain
+- Protect
+- Nasty Plot
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+- Protect
+- Haze
+- Scale Shot
+- Tailwind
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+- Close Combat
+- Final Gambit
+- Rage Fist
+- Coaching
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Fairy
+- Headlong Rush
+- Earthquake
+- Facade
+- Protect
+
+____
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Grass
+- Dragon Pulse
+- Body Press
+- Flash Cannon
+- Electro Shot
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+- Population Bomb
+- Taunt
+- Follow Me
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Earth Power
+- Protect
+- Calm Mind
+
+Rillaboom @ Loaded Dice
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Bullet Seed
+- High Horsepower
+- Fake Out
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+- Protect
+- Weather Ball
+- Hurricane
+- Tailwind
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Protect
+- Throat Chop
+- Close Combat
+- Dire Claw
+
+____
+
+Kingambit @ Dread Plate
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Fire
+- Dazzling Gleam
+- Expanding Force
+- Skill Swap
+- Trick Room
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Ghost
+- Trick Room
+- Follow Me
+- Helping Hand
+- Psychic
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+Tera Type: Grass
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+- Eruption
+- Heat Wave
+- Earth Power
+- Weather Ball
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+- Facade
+- Protect
+- Earthquake
+- Headlong Rush
+
+____
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Dragon
+- Flamethrower
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+- Matcha Gotcha
+- Strength Sap
+- Calm Mind
+- Trick Room
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+- Dragon Pulse
+- Electro Shot
+- Thunderbolt
+- Protect
+
+Primarina @ Choice Specs
+Ability: Liquid Voice
+Level: 50
+Tera Type: Grass
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Uproar
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+- Expanding Force
+- Tera Blast
+- Helping Hand
+- Protect
+
+____
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+- Heat Wave
+- Tera Blast
+- Quiver Dance
+- Protect
+
+Basculegion @ Choice Scarf
+Ability: Adaptability
+Level: 50
+Tera Type: Grass
+- Aqua Jet
+- Flip Turn
+- Last Respects
+- Wave Crash
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Aurora Veil
+- Encore
+- Blizzard
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+- Blood Moon
+- Yawn
+- Earth Power
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Taunt
+- Knock Off
+- Parting Shot
+
+____
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+- Spirit Break
+- Light Screen
+- Reflect
+- Thunder Wave
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Trick
+- Shadow Ball
+- Power Gem
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+- Electroweb
+- Taunt
+- Protect
+- Follow Me
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Grassy Glide
+- Wood Hammer
+- U-turn
+- Fake Out
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Protect
+
+____
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Fake Out
+- Flare Blitz
+- Knock Off
+- U-turn
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+- Hurricane
+- Weather Ball
+- Icy Wind
+- Muddy Water
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+- Expanding Force
+- Dazzling Gleam
+- Helping Hand
+- Protect
+
+Rillaboom @ Clear Amulet
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+
+____
+
+Volcarona @ Grassy Seed
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+- Protect
+- Quiver Dance
+- Tera Blast
+- Heat Wave
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+- Flare Blitz
+- Knock Off
+- Fake Out
+- Parting Shot
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+- Fake Out
+- Grassy Glide
+- High Horsepower
+- Wood Hammer
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+- Make It Rain
+- Power Gem
+- Thunderbolt
+- Shadow Ball
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+- Tailwind
+- Protect
+- Haze
+- Scale Shot
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+- Blizzard
+- Protect
+- Icy Wind
+- Aurora Veil
+
+____
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Water
+- Heat Wave
+- Struggle Bug
+- Will-O-Wisp
+- Tailwind
+
+Tatsugiri @ Focus Sash
+Ability: Storm Drain
+Level: 50
+Tera Type: Ghost
+- Protect
+- Dragon Pulse
+- Muddy Water
+- Taunt
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Normal
+- Scale Shot
+- Haze
+- Protect
+- Extreme Speed
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Grass
+- Protect
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+
+Dondozo @ Covert Cloak
+Ability: Unaware
+Level: 50
+Tera Type: Steel
+- Protect
+- Wave Crash
+- Order Up
+- Heavy Slam
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Water
+- Close Combat
+- Rage Fist
+- Coaching
+- Final Gambit
+
+____
+
+

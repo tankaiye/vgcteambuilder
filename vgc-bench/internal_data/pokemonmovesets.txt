@@ -1,0 +1,1907 @@
+Incineroar
+Abilities
+Intimidate 99.977
+Blaze 0.023
+Items
+Safety_Goggles 54.104
+Assault_Vest 19.822
+Sitrus_Berry 11.736
+Clear_Amulet 5.136
+Mirror_Herb 4.268
+Other 4.934
+Spreads
+Jolly:244/4/4/0/4/252 4.735
+Impish:244/4/76/0/124/60 2.928
+Adamant:252/36/0/0/0/220 2.394
+Adamant:204/36/4/0/44/220 1.906
+Adamant:252/36/4/0/12/204 1.890
+Brave:252/252/0/0/4/0 1.134
+Other 85.013
+Moves
+Fake_Out 99.819
+Knock_Off 98.550
+Flare_Blitz 88.692
+Parting_Shot 73.371
+U-turn 20.165
+Other 19.403
+Tera_Types
+Ghost 56.182
+Grass 26.188
+Water 9.382
+Fire 2.071
+Bug 1.858
+Other 4.319
+
+Gholdengo
+Abilities
+Good_as_Gold 100.000
+Items
+Life_Orb 56.867
+Choice_Specs 13.880
+Choice_Scarf 8.561
+Iron_Plate 8.909
+Leftovers 1.436
+Other 4.228
+Spreads
+Timid:52/0/4/196/4/252 11.053
+Timid:116/0/4/132/4/252 10.422
+Timid:4/0/0/252/0/252 7.066
+Modest:4/0/0/252/0/252 6.597
+Timid:132/0/4/116/4/252 5.095
+Timid:52/0/20/180/4/252 2.901
+Other 56.866
+Moves
+Make_It_Rain 99.996
+Shadow_Ball 99.978
+Protect 80.754
+Nasty_Plot 73.614
+Trick 18.439
+Power_Gem 14.006
+Other 13.214
+Tera_Types
+Water 58.555
+Steel 18.407
+Flying 11.017
+Dragon 7.192
+Other 4.829
+
+Rillaboom
+Abilities
+Grassy_Surge 99.953
+Overgrow 0.047
+Items
+Assault_Vest 75.639
+Meadow_Plate 22.119
+Other 2.241
+Spreads
+Adamant:204/36/4/0/156/108 4.322
+Jolly:108/140/4/0/4/252 3.597
+Adamant:252/116/4/0/60/76 2.366
+Adamant:188/196/4/0/20/100 1.924
+Adamant:172/252/4/0/52/28 1.800
+Adamant:156/252/4/0/92/4 1.753
+Other 84.238
+Moves
+Grassy_Glide 99.760
+Fake_Out 99.736
+Wood_Hammer 90.351
+High_Horsepower 79.701
+U-turn 13.508
+Other 16.945
+Tera_Types
+Fire 81.926
+Water 9.666
+Grass 5.402
+Other 3.006
+
+Ursaluna-Bloodmoon
+Abilities
+Mind's_Eye 100.000
+Items
+Leftovers 33.619
+Life_Orb 31.620
+Assault_Vest 27.774
+Covert_Cloak 2.609
+Other 4.377
+Spreads
+Modest:4/0/0/252/0/252 13.146
+Modest:156/0/12/36/172/132 6.626
+Modest:188/0/4/116/148/52 2.486
+Modest:164/0/4/116/220/4 2.204
+Modest:148/0/12/196/100/52 1.738
+Modest:0/0/0/252/4/252 1.528
+Other 72.272
+Moves
+Blood_Moon 99.982
+Earth_Power 99.927
+Protect 72.187
+Hyper_Voice 62.573
+Yawn 31.285
+Vacuum_Wave 28.974
+Other 5.073
+Tera_Types
+Electric 37.163
+Normal 30.894
+Water 19.213
+Ghost 6.407
+Fire 3.767
+Other 2.557
+
+Dragonite
+Abilities
+Multiscale 92.909
+Inner_Focus 7.091
+Items
+Loaded_Dice 93.706
+Choice_Band 3.462
+Other 2.832
+Spreads
+Adamant:4/252/0/0/0/252 40.156
+Adamant:36/212/4/0/4/252 12.978
+Adamant:0/252/4/0/0/252 5.985
+Adamant:44/204/4/0/4/252 3.342
+Adamant:12/236/4/0/4/252 3.290
+Adamant:204/44/4/0/4/252 2.601
+Other 31.648
+Moves
+Scale_Shot 94.115
+Protect 93.865
+Haze 72.204
+Tailwind 69.951
+Extreme_Speed 32.487
+Stomping_Tantrum 12.234
+Low_Kick 6.739
+Other 18.404
+Tera_Types
+Fairy 59.613
+Steel 24.567
+Normal 6.031
+Ground 4.125
+Fighting 2.650
+Other 3.014
+
+Sneasler
+Abilities
+Unburden 87.825
+Poison_Touch 11.945
+Pressure 0.231
+Items
+Grassy_Seed 46.881
+Focus_Sash 25.798
+Psychic_Seed 17.851
+White_Herb 6.580
+Other 2.890
+Spreads
+Jolly:0/252/4/0/0/252 9.445
+Jolly:4/252/0/0/0/252 8.700
+Adamant:172/124/76/0/4/132 6.111
+Adamant:4/252/0/0/0/252 5.961
+Jolly:0/252/0/0/4/252 5.500
+Adamant:0/252/0/0/4/252 4.366
+Other 59.918
+Moves
+Close_Combat 99.923
+Protect 84.327
+Dire_Claw 58.116
+Acrobatics 45.818
+Swords_Dance 39.666
+Coaching 25.917
+Fake_Out 23.546
+Throat_Chop 20.190
+Other 2.497
+Tera_Types
+Flying 45.743
+Stellar 21.935
+Dark 17.852
+Ghost 13.782
+Other 0.687
+
+Ninetales-Alola
+Abilities
+Snow_Warning 99.721
+Snow_Cloak 0.279
+Items
+Focus_Sash 75.835
+Covert_Cloak 8.815
+Life_Orb 5.472
+Choice_Scarf 2.236
+Other 3.107
+Spreads
+Timid:4/0/0/252/0/252 43.132
+Timid:0/0/4/252/0/252 33.957
+Timid:4/0/4/244/4/252 2.810
+Timid:0/0/0/252/4/252 2.119
+Timid:220/0/4/28/4/252 0.954
+Timid:228/0/20/4/4/252 0.897
+Other 16.131
+Moves
+Blizzard 99.183
+Protect 73.165
+Icy_Wind 66.149
+Aurora_Veil 56.166
+Encore 55.103
+Disable 14.156
+Freeze-Dry 12.828
+Moonblast 9.925
+Other 13.325
+Tera_Types
+Ghost 63.885
+Ice 21.379
+Water 4.456
+Fire 3.572
+Ground 3.489
+Other 3.218
+
+Annihilape
+Abilities
+Defiant 99.353
+Vital_Spirit 0.635
+Inner_Focus 0.011
+Items
+Sitrus_Berry 39.320
+Safety_Goggles 31.631
+Leftovers 9.675
+Choice_Scarf 7.405
+Focus_Sash 6.965
+Assault_Vest 2.219
+Other 2.785
+Spreads
+Jolly:180/68/4/0/4/252 22.062
+Jolly:188/68/0/0/0/252 10.264
+Jolly:252/4/0/0/0/252 7.361
+Jolly:180/76/0/0/0/252 4.984
+Jolly:180/52/12/0/12/252 4.380
+Jolly:252/0/0/0/4/252 2.005
+Other 48.946
+Moves
+Rage_Fist 95.757
+Protect 56.476
+Drain_Punch 54.037
+Bulk_Up 51.950
+Close_Combat 46.700
+Final_Gambit 41.370
+Taunt 23.109
+Coaching 16.913
+Other 13.689
+Tera_Types
+Fire 55.540
+Water 20.862
+Grass 4.678
+Fairy 4.280
+Steel 3.299
+Stellar 2.559
+Dragon 2.331
+Ground 1.983
+Other 4.467
+
+Archaludon
+Abilities
+Stamina 68.326
+Sturdy 28.344
+Stalwart 3.330
+Items
+Assault_Vest 66.406
+Power_Herb 32.796
+Other 0.798
+Spreads
+Timid:4/0/0/252/0/252 13.747
+Timid:0/0/0/252/4/252 10.413
+Bold:244/0/76/4/172/12 8.976
+Modest:252/0/4/36/92/124 4.879
+Timid:0/0/4/252/0/252 4.285
+Modest:252/0/60/4/132/60 2.042
+Other 55.658
+Moves
+Electro_Shot 92.165
+Flash_Cannon 80.013
+Body_Press 66.710
+Draco_Meteor 48.450
+Snarl 38.811
+Protect 33.450
+Dragon_Pulse 27.042
+Other 13.359
+Tera_Types
+Fighting 29.767
+Electric 27.890
+Bug 22.599
+Grass 10.893
+Stellar 3.345
+Fairy 2.549
+Other 2.956
+
+Basculegion
+Abilities
+Adaptability 66.637
+Swift_Swim 33.277
+Mold_Breaker 0.086
+Items
+Choice_Scarf 48.299
+Choice_Band 29.705
+Focus_Sash 19.414
+Other 2.582
+Spreads
+Adamant:4/252/0/0/0/252 19.651
+Adamant:0/252/4/0/0/252 19.318
+Adamant:0/220/36/0/0/252 6.560
+Adamant:0/252/0/0/4/252 6.272
+Adamant:4/220/28/0/4/252 6.056
+Jolly:4/252/0/0/0/252 3.677
+Other 38.466
+Moves
+Last_Respects 99.998
+Aqua_Jet 87.217
+Wave_Crash 81.999
+Flip_Turn 78.447
+Protect 21.898
+Liquidation 17.971
+Other 12.470
+Tera_Types
+Water 52.766
+Ghost 18.913
+Grass 16.105
+Fighting 7.685
+Other 4.531
+
+Volcarona
+Abilities
+Flame_Body 99.964
+Swarm 0.036
+Items
+Covert_Cloak 40.204
+Sitrus_Berry 17.864
+Leftovers 13.388
+Other 4.594
+Spreads
+Modest:252/0/116/36/4/100 5.940
+Modest:252/0/60/36/4/156 4.814
+Timid:156/0/84/12/4/252 4.009
+Timid:252/0/68/4/4/180 2.884
+Modest:252/0/108/36/4/108 2.732
+Modest:252/0/76/36/4/140 2.681
+Other 76.939
+Moves
+Heat_Wave 82.214
+Quiver_Dance 74.348
+Protect 70.009
+Tera_Blast 63.006
+Rage_Powder 26.509
+Struggle_Bug 24.585
+Tailwind 22.444
+Overheat 9.945
+Giga_Drain 9.268
+Other 17.672
+Tera_Types
+Fairy 68.569
+Water 9.258
+Grass 8.999
+Dragon 6.270
+Steel 4.510
+Other 2.395
+
+Ursaluna
+Abilities
+Guts 99.977
+Bulletproof 0.019
+Unnerve 0.004
+Items
+Flame_Orb 99.973
+Other 0.027
+Spreads
+Brave:252/252/0/0/4/0 10.218
+Adamant:140/236/0/0/0/132 5.767
+Adamant:12/244/0/0/0/252 5.121
+Adamant:12/252/4/0/4/236 4.737
+Adamant:12/236/4/0/4/252 3.399
+Brave:252/252/4/0/0/0 3.033
+Other 67.725
+Moves
+Facade 99.978
+Headlong_Rush 99.881
+Protect 96.615
+Earthquake 92.205
+Other 11.321
+Tera_Types
+Ghost 83.014
+Fairy 13.386
+Other 3.599
+
+Kingambit
+Abilities
+Defiant 99.963
+Supreme_Overlord 0.037
+Pressure 0.000
+Items
+Safety_Goggles 24.675
+Assault_Vest 24.429
+Dread_Plate 49.322
+Other 1.574
+Spreads
+Adamant:252/252/0/0/4/0 7.538
+Adamant:212/252/4/0/4/36 4.478
+Adamant:252/252/0/0/0/4 4.083
+Brave:236/196/0/0/76/0 3.967
+Adamant:180/252/4/0/4/68 2.011
+Adamant:220/244/28/0/4/12 1.998
+Other 75.924
+Moves
+Sucker_Punch 99.978
+Kowtow_Cleave 97.044
+Protect 74.041
+Swords_Dance 73.710
+Iron_Head 21.501
+Low_Kick 20.003
+Other 13.723
+Tera_Types
+Dark 46.683
+Fire 20.149
+Ghost 14.852
+Flying 13.654
+Other 4.662
+
+Amoonguss
+Abilities
+Regenerator 99.824
+Effect_Spore 0.176
+Items
+Sitrus_Berry 71.140
+Covert_Cloak 14.515
+Rocky_Helmet 8.254
+Mental_Herb 3.276
+Other 2.814
+Spreads
+Bold:244/0/156/0/108/0 8.443
+Bold:244/0/164/0/100/0 6.445
+Calm:244/0/108/0/156/0 4.949
+Calm:244/0/188/0/76/0 4.026
+Bold:244/0/244/0/20/0 3.887
+Calm:228/0/204/0/76/0 3.859
+Other 68.392
+Moves
+Spore 99.999
+Rage_Powder 99.960
+Pollen_Puff 87.079
+Protect 86.722
+Clear_Smog 12.517
+Other 13.723
+Tera_Types
+Water 41.825
+Psychic 26.858
+Fairy 19.831
+Fire 5.793
+Dark 2.721
+Other 2.972
+
+Pelipper
+Abilities
+Drizzle 99.937
+Keen_Eye 0.058
+Rain_Dish 0.005
+Items
+Focus_Sash 65.097
+Choice_Scarf 17.274
+Safety_Goggles 10.358
+Covert_Cloak 4.133
+Other 3.138
+Spreads
+Modest:4/0/0/252/0/252 23.868
+Timid:4/0/0/252/0/252 18.794
+Modest:108/0/36/132/4/228 6.942
+Timid:0/0/36/220/0/252 5.516
+Timid:4/0/36/212/4/252 3.342
+Modest:0/0/36/220/0/252 2.872
+Other 38.666
+Moves
+Hurricane 99.960
+Tailwind 74.990
+Protect 72.962
+Weather_Ball 68.432
+Muddy_Water 44.587
+Wide_Guard 20.359
+Other 18.709
+Tera_Types
+Ghost 50.963
+Stellar 18.866
+Steel 11.922
+Ground 10.330
+Grass 3.825
+Other 4.094
+
+Maushold
+Abilities
+Friend_Guard 82.309
+Technician 17.690
+Cheek_Pouch 0.001
+Items
+Focus_Sash 44.129
+Wide_Lens 21.383
+Safety_Goggles 18.004
+Rocky_Helmet 14.055
+Other 2.429
+Spreads
+Jolly:156/0/100/0/0/252 10.174
+Timid:148/0/108/0/0/252 8.037
+Jolly:4/252/0/0/0/252 6.823
+Timid:252/0/4/0/0/252 4.797
+Jolly:0/252/4/0/0/252 4.445
+Jolly:252/4/0/0/0/252 4.088
+Other 61.638
+Moves
+Follow_Me 99.277
+Protect 97.939
+Beat_Up 64.772
+Super_Fang 61.169
+Taunt 31.007
+Population_Bomb 21.498
+Feint 11.832
+Other 12.506
+Tera_Types
+Ghost 80.626
+Poison 8.350
+Fairy 5.561
+Grass 2.497
+Other 2.966
+
+Sinistcha
+Abilities
+Hospitality 97.430
+Heatproof 2.570
+Items
+Sitrus_Berry 88.606
+Mental_Herb 4.819
+Rocky_Helmet 2.255
+Other 4.320
+Spreads
+Calm:252/0/68/0/188/0 16.807
+Bold:252/0/28/0/228/0 6.327
+Calm:252/0/68/4/180/4 4.505
+Calm:244/0/28/4/188/44 3.999
+Calm:252/0/4/0/252/0 3.082
+Sassy:252/0/36/0/220/0 2.564
+Other 62.716
+Moves
+Matcha_Gotcha 99.805
+Rage_Powder 95.617
+Trick_Room 94.286
+Life_Dew 81.074
+Strength_Sap 9.685
+Other 19.533
+Tera_Types
+Dark 46.213
+Water 35.129
+Fire 6.989
+Fairy 4.816
+Psychic 2.491
+Other 4.361
+
+Tyranitar
+Abilities
+Sand_Stream 99.991
+Unnerve 0.009
+Items
+Assault_Vest 85.747
+Clear_Amulet 3.799
+Choice_Band 2.903
+Focus_Sash 2.595
+Other 4.957
+Spreads
+Adamant:116/204/0/0/0/188 8.963
+Adamant:116/124/4/0/12/252 5.489
+Adamant:92/156/12/0/28/220 5.099
+Adamant:100/132/12/0/60/204 3.478
+Adamant:108/124/12/0/12/252 3.271
+Adamant:4/252/0/0/0/252 3.122
+Other 70.578
+Moves
+Rock_Slide 99.753
+Knock_Off 98.144
+Tera_Blast 92.399
+Low_Kick 91.094
+Other 18.610
+Tera_Types
+Flying 91.564
+Grass 5.116
+Other 3.320
+
+Whimsicott
+Abilities
+Prankster 99.846
+Chlorophyll 0.154
+Infiltrator 0.000
+Items
+Covert_Cloak 58.428
+Focus_Sash 41.401
+Other 0.171
+Spreads
+Timid:4/0/0/252/0/252 29.086
+Timid:0/0/4/252/0/252 6.126
+Bold:244/0/116/4/108/36 4.226
+Timid:12/0/12/252/4/228 2.817
+Timid:252/0/0/4/0/252 2.761
+Timid:252/0/12/4/92/148 2.230
+Other 52.754
+Moves
+Tailwind 99.994
+Moonblast 98.993
+Encore 78.657
+Sunny_Day 43.610
+Fake_Tears 33.332
+Taunt 13.214
+Beat_Up 12.936
+Other 19.264
+Tera_Types
+Ghost 46.247
+Fire 21.173
+Steel 13.874
+Water 8.800
+Dark 4.848
+Poison 2.504
+Other 2.554
+
+Torkoal
+Abilities
+Drought 99.916
+White_Smoke 0.084
+Shell_Armor 0.000
+Items
+Flame_Plate 32.433
+Choice_Specs 31.702
+Assault_Vest 2.617
+Other 3.646
+Spreads
+Quiet:252/0/0/252/4/0 44.398
+Quiet:252/0/4/252/0/0 26.302
+Modest:252/0/4/252/0/0 8.162
+Quiet:244/0/12/252/0/0 2.256
+Quiet:164/0/0/252/92/0 2.075
+Sassy:252/0/84/0/172/0 1.970
+Other 14.837
+Moves
+Eruption 92.578
+Protect 54.734
+Weather_Ball 52.664
+Heat_Wave 45.461
+Earth_Power 39.916
+Helping_Hand 34.002
+Overheat 31.234
+Clear_Smog 25.913
+Flamethrower 8.563
+Other 14.935
+Tera_Types
+Fire 88.494
+Grass 6.972
+Other 4.534
+
+Porygon2
+Abilities
+Download 99.399
+Trace 0.593
+Analytic 0.008
+Items
+Eviolite 99.994
+Other 0.006
+Spreads
+Modest:252/0/28/204/20/4 19.266
+Modest:252/0/108/44/100/4 3.326
+Quiet:252/4/92/124/36/0 3.284
+Calm:252/0/100/36/116/4 2.928
+Modest:252/0/28/196/20/12 2.685
+Calm:252/0/76/4/172/4 2.126
+Other 66.384
+Moves
+Trick_Room 99.994
+Tera_Blast 99.080
+Recover 96.176
+Ice_Beam 95.902
+Other 8.848
+Tera_Types
+Fighting 85.476
+Electric 3.892
+Flying 3.287
+Ground 2.090
+Fairy 1.801
+Other 3.453
+
+Kilowattrel
+Abilities
+Competitive 98.446
+Volt_Absorb 1.043
+Wind_Power 0.512
+Items
+Focus_Sash 91.066
+Covert_Cloak 6.295
+Other 2.639
+Spreads
+Timid:0/0/4/252/0/252 31.479
+Timid:4/0/0/252/0/252 28.744
+Timid:0/0/0/252/4/252 23.915
+Timid:4/0/12/236/4/252 5.785
+Timid:4/0/12/228/12/252 3.837
+Timid:68/0/4/132/52/252 0.978
+Other 5.261
+Moves
+Air_Slash 98.663
+Tailwind 97.094
+Protect 93.842
+Thunderbolt 93.783
+Other 16.617
+Tera_Types
+Ghost 88.067
+Fairy 6.926
+Electric 1.879
+Other 3.128
+
+Farigiraf
+Abilities
+Armor_Tail 90.561
+Sap_Sipper 9.190
+Cud_Chew 0.249
+Items
+Throat_Spray 72.367
+Psychic_Seed 9.156
+Safety_Goggles 6.578
+Sitrus_Berry 5.282
+Mental_Herb 3.055
+Other 3.563
+Spreads
+Quiet:252/0/0/196/60/0 8.638
+Modest:108/0/180/76/68/76 6.059
+Modest:188/0/44/156/116/4 5.048
+Quiet:160/0/116/156/76/0 2.911
+Quiet:132/0/28/156/188/0 2.457
+Modest:108/0/180/76/28/116 2.268
+Other 72.619
+Moves
+Trick_Room 99.690
+Hyper_Voice 78.182
+Protect 68.934
+Psychic 46.515
+Expanding_Force 36.855
+Helping_Hand 17.821
+Tera_Blast 13.245
+Nasty_Plot 10.564
+Twin_Beam 7.596
+Dazzling_Gleam 7.334
+Other 13.264
+Tera_Types
+Fairy 34.945
+Fire 24.930
+Water 23.940
+Dragon 8.380
+Fighting 2.158
+Grass 1.714
+Other 3.934
+
+Indeedee-F
+Abilities
+Psychic_Surge 99.927
+Own_Tempo 0.064
+Synchronize 0.009
+Items
+Psychic_Seed 44.904
+Safety_Goggles 21.699
+Rocky_Helmet 16.086
+Mental_Herb 8.895
+Focus_Sash 6.098
+Other 2.318
+Spreads
+Relaxed:252/0/252/0/4/0 36.673
+Bold:252/0/252/0/4/0 17.264
+Sassy:252/0/252/0/4/0 9.737
+Relaxed:252/0/204/0/52/0 7.689
+Relaxed:236/0/252/0/20/0 5.753
+Bold:252/0/236/0/20/0 4.943
+Other 17.940
+Moves
+Follow_Me 99.966
+Trick_Room 90.341
+Psychic 85.888
+Helping_Hand 83.207
+Protect 13.533
+Heal_Pulse 9.507
+Other 17.559
+Tera_Types
+Grass 34.040
+Fairy 17.367
+Water 13.527
+Steel 11.630
+Dragon 11.286
+Ghost 10.331
+Other 1.819
+
+Garchomp
+Abilities
+Rough_Skin 88.354
+Sand_Veil 11.646
+Items
+Life_Orb 75.518
+Clear_Amulet 17.122
+Leftovers 2.654
+Other 4.706
+Spreads
+Jolly:4/252/0/0/0/252 41.467
+Jolly:0/252/0/0/4/252 18.297
+Jolly:0/252/4/0/0/252 9.185
+Jolly:44/212/0/0/0/252 6.775
+Jolly:12/236/4/0/4/252 5.142
+Jolly:44/252/4/0/4/204 2.431
+Other 16.704
+Moves
+Protect 97.969
+Earthquake 97.501
+Stomping_Tantrum 95.489
+Dragon_Claw 95.246
+Other 13.795
+Tera_Types
+Steel 43.492
+Fire 23.561
+Ground 23.215
+Fairy 7.941
+Other 1.792
+
+Dondozo
+Abilities
+Unaware 98.126
+Oblivious 1.873
+Water_Veil 0.001
+Items
+Leftovers 87.108
+Covert_Cloak 7.254
+Life_Orb 2.084
+Other 3.554
+Spreads
+Careful:244/0/68/0/196/0 5.234
+Impish:116/44/84/0/252/12 5.221
+Careful:244/4/60/0/196/4 5.183
+Adamant:4/252/0/0/0/252 3.338
+Impish:156/4/4/0/252/92 3.265
+Adamant:4/172/4/0/76/252 3.177
+Other 74.583
+Moves
+Protect 99.561
+Wave_Crash 78.969
+Order_Up 60.522
+Earthquake 50.800
+Yawn 38.667
+Fissure 29.960
+Liquidation 15.118
+Body_Press 7.006
+Other 19.397
+Tera_Types
+Grass 53.801
+Poison 25.036
+Steel 10.044
+Fire 2.994
+Dragon 2.236
+Ghost 2.165
+Other 3.724
+
+Electabuzz
+Abilities
+Vital_Spirit 99.023
+Static 0.977
+Items
+Eviolite 99.996
+Other 0.004
+Spreads
+Timid:252/0/100/4/4/148 8.258
+Bold:244/0/196/4/4/60 7.247
+Bold:244/0/180/4/20/60 6.697
+Timid:244/0/116/4/4/140 3.866
+Timid:148/0/100/4/4/252 3.277
+Bold:228/0/180/4/4/92 2.418
+Other 68.237
+Moves
+Follow_Me 100.000
+Protect 97.830
+Taunt 82.904
+Electroweb 57.613
+Thunderbolt 41.476
+Helping_Hand 11.142
+Other 9.035
+Tera_Types
+Ghost 59.520
+Dragon 27.999
+Fairy 5.037
+Water 3.507
+Other 3.936
+
+Typhlosion-Hisui
+Abilities
+Blaze 98.595
+Frisk 1.405
+Items
+Choice_Specs 74.616
+Choice_Scarf 19.147
+Flame_Plate 5.370
+Other 0.867
+Spreads
+Timid:4/0/0/252/0/252 53.937
+Modest:4/0/0/252/0/252 14.033
+Timid:0/0/0/252/4/252 5.738
+Timid:28/0/68/180/4/228 2.839
+Timid:0/0/4/252/0/252 2.587
+Timid:4/0/4/244/4/252 2.324
+Other 18.542
+Moves
+Eruption 99.998
+Shadow_Ball 99.619
+Heat_Wave 91.701
+Overheat 71.033
+Sleep_Talk 7.962
+Protect 6.194
+Lava_Plume 4.730
+Other 18.763
+Tera_Types
+Fire 96.764
+Other 3.236
+
+Indeedee
+Abilities
+Psychic_Surge 99.759
+Inner_Focus 0.241
+Synchronize 0.000
+Items
+Focus_Sash 55.557
+Choice_Scarf 41.390
+Other 3.053
+Spreads
+Modest:4/0/0/252/0/252 26.151
+Timid:4/0/0/252/0/252 21.826
+Timid:0/0/4/252/0/252 15.524
+Modest:0/0/4/252/0/252 10.142
+Timid:0/0/0/252/4/252 9.979
+Modest:0/0/0/252/4/252 4.566
+Other 11.812
+Moves
+Expanding_Force 100.000
+Tera_Blast 69.589
+Protect 61.362
+Trick 38.364
+Trick_Room 37.852
+Helping_Hand 30.215
+Imprison 23.476
+Dazzling_Gleam 14.046
+Fake_Out 9.571
+Other 15.526
+Tera_Types
+Psychic 70.388
+Fighting 15.685
+Fairy 8.111
+Ground 2.571
+Other 3.245
+
+Primarina
+Abilities
+Liquid_Voice 99.688
+Torrent 0.312
+Items
+Choice_Specs 24.243
+Life_Orb 20.265
+Throat_Spray 19.285
+Focus_Sash 11.129
+Sitrus_Berry 10.307
+Leftovers 3.750
+Splash_Plate 5.475
+Assault_Vest 2.135
+Other 3.413
+Spreads
+Modest:52/0/4/196/4/252 10.873
+Timid:4/0/0/252/0/252 10.623
+Modest:228/0/52/212/4/12 4.961
+Modest:252/0/36/188/4/28 2.660
+Modest:108/0/4/196/4/196 2.617
+Modest:108/0/12/188/4/196 2.475
+Other 65.791
+Moves
+Hyper_Voice 99.541
+Moonblast 98.750
+Protect 72.694
+Haze 69.578
+Dazzling_Gleam 28.317
+Calm_Mind 6.613
+Water_Pledge 4.805
+Other 19.704
+Tera_Types
+Poison 30.142
+Water 22.125
+Fairy 18.332
+Grass 10.628
+Steel 7.977
+Ghost 4.649
+Fire 3.735
+Other 2.413
+
+Dragapult
+Abilities
+Clear_Body 80.319
+Infiltrator 19.667
+Cursed_Body 0.014
+Items
+Choice_Band 72.771
+Life_Orb 18.709
+Choice_Specs 7.535
+Other 0.985
+Spreads
+Adamant:4/252/0/0/0/252 15.222
+Jolly:0/252/0/0/4/252 9.803
+Adamant:0/252/0/0/4/252 9.555
+Jolly:4/252/0/0/0/252 9.047
+Modest:4/0/0/252/0/252 6.286
+Timid:12/0/4/236/4/252 6.107
+Other 43.981
+Moves
+U-turn 92.118
+Dragon_Darts 74.170
+Phantom_Force 71.743
+Outrage 56.776
+Draco_Meteor 25.660
+Shadow_Ball 25.517
+Tera_Blast 17.536
+Curse 13.599
+Protect 5.811
+Other 17.069
+Tera_Types
+Dragon 63.716
+Stellar 17.818
+Ghost 9.653
+Fairy 7.169
+Other 1.645
+
+Tatsugiri
+Abilities
+Commander 99.897
+Storm_Drain 0.103
+Items
+Choice_Scarf 42.550
+Safety_Goggles 28.605
+Focus_Sash 12.295
+Assault_Vest 2.670
+Wide_Lens 2.049
+Rocky_Helmet 1.193
+Other 4.540
+Spreads
+Timid:0/0/0/252/4/252 16.530
+Timid:4/0/0/252/0/252 10.915
+Modest:0/0/4/252/0/252 9.794
+Timid:0/0/4/252/0/252 9.611
+Modest:92/0/212/76/4/124 6.716
+Modest:0/0/0/252/4/252 5.468
+Other 40.965
+Moves
+Muddy_Water 97.868
+Draco_Meteor 92.680
+Protect 53.474
+Icy_Wind 51.341
+Dragon_Pulse 34.437
+Helping_Hand 22.280
+Taunt 16.598
+Tera_Blast 9.583
+Sleep_Talk 7.211
+Other 14.530
+Tera_Types
+Fairy 38.337
+Steel 26.831
+Ghost 12.942
+Normal 8.923
+Stellar 8.383
+Other 4.584
+
+Talonflame
+Abilities
+Gale_Wings 98.820
+Flame_Body 1.180
+Items
+Covert_Cloak 76.358
+Life_Orb 8.665
+Sky_Plate 10.345
+Other 4.633
+Spreads
+Adamant:4/252/0/0/0/252 16.791
+Jolly:4/252/0/0/0/252 15.803
+Jolly:204/36/4/0/12/252 6.924
+Jolly:0/252/0/0/4/252 6.519
+Jolly:236/4/36/0/20/212 4.987
+Jolly:244/4/4/0/4/252 4.414
+Other 44.561
+Moves
+Tailwind 99.980
+Will-O-Wisp 68.769
+Brave_Bird 63.120
+Flare_Blitz 60.012
+Taunt 41.403
+Dual_Wingbeat 30.637
+Protect 21.245
+Other 14.833
+Tera_Types
+Fairy 29.756
+Ghost 27.513
+Stellar 15.982
+Grass 13.259
+Flying 6.038
+Steel 3.853
+Other 3.599
+
+Lilligant-Hisui
+Abilities
+Chlorophyll 99.960
+Hustle 0.040
+Leaf_Guard 0.000
+Items
+Focus_Sash 99.023
+Other 0.977
+Spreads
+Jolly:4/252/0/0/0/252 54.160
+Jolly:0/252/0/0/4/252 30.704
+Jolly:0/252/4/0/0/252 4.819
+Jolly:0/236/20/0/0/252 3.106
+Adamant:0/252/0/0/4/252 1.889
+Adamant:4/252/0/0/0/252 1.458
+Other 3.864
+Moves
+After_You 99.332
+Close_Combat 98.528
+Sleep_Powder 98.443
+Solar_Blade 69.431
+Leaf_Blade 14.059
+Encore 13.926
+Other 6.281
+Tera_Types
+Ghost 97.042
+Other 2.958
+
+Arcanine-Hisui
+Abilities
+Intimidate 99.351
+Rock_Head 0.411
+Flash_Fire 0.238
+Items
+Clear_Amulet 54.363
+Mirror_Herb 22.833
+Choice_Band 15.583
+Life_Orb 2.028
+Safety_Goggles 1.320
+Other 3.874
+Spreads
+Jolly:4/252/0/0/0/252 44.804
+Jolly:0/252/0/0/4/252 20.314
+Jolly:180/44/12/0/20/252 4.378
+Jolly:52/148/84/0/4/220 3.786
+Jolly:52/148/52/0/4/252 1.341
+Jolly:44/212/4/0/4/244 1.335
+Other 24.043
+Moves
+Flare_Blitz 99.955
+Rock_Slide 99.178
+Extreme_Speed 84.648
+Protect 82.948
+Head_Smash 15.761
+Other 17.509
+Tera_Types
+Water 54.813
+Ghost 16.303
+Fairy 11.412
+Normal 9.197
+Grass 5.861
+Other 2.413
+
+Hatterene
+Abilities
+Magic_Bounce 99.931
+Healer 0.069
+Anticipation 0.000
+Items
+Life_Orb 89.155
+Covert_Cloak 10.067
+Other 0.778
+Spreads
+Quiet:212/0/44/252/0/0 46.028
+Quiet:252/0/4/252/0/0 16.152
+Quiet:252/0/0/252/4/0 10.004
+Quiet:212/0/0/252/44/0 8.792
+Quiet:212/0/68/196/28/0 4.859
+Quiet:212/0/0/188/108/0 3.991
+Other 10.174
+Moves
+Dazzling_Gleam 99.919
+Trick_Room 99.887
+Expanding_Force 98.958
+Protect 70.030
+Skill_Swap 15.108
+Other 16.098
+Tera_Types
+Water 60.566
+Fire 19.279
+Psychic 18.744
+Other 1.411
+
+Kommo-o
+Abilities
+Overcoat 74.034
+Soundproof 20.502
+Bulletproof 5.463
+Items
+Throat_Spray 65.853
+Leftovers 18.681
+Life_Orb 7.075
+Clear_Amulet 5.675
+Other 2.716
+Spreads
+Timid:4/0/0/252/0/252 9.075
+Modest:20/0/0/236/0/252 8.957
+Timid:0/0/0/252/4/252 8.744
+Modest:4/0/4/244/4/252 7.200
+Modest:0/0/0/252/4/252 4.846
+Calm:76/0/4/132/76/220 2.713
+Other 58.465
+Moves
+Protect 99.282
+Clanging_Scales 76.828
+Flamethrower 66.474
+Aura_Sphere 56.688
+Clangorous_Soul 49.669
+Body_Press 16.166
+Iron_Defense 15.665
+Other 19.228
+Tera_Types
+Fire 73.728
+Steel 11.055
+Fairy 10.077
+Ghost 3.333
+Other 1.807
+
+Magmar
+Abilities
+Vital_Spirit 94.495
+Flame_Body 5.505
+Items
+Eviolite 100.000
+Other 0.000
+Spreads
+Bold:236/0/220/4/4/44 10.155
+Bold:244/0/244/0/20/0 5.909
+Timid:252/0/52/4/4/196 4.253
+Bold:212/0/236/4/4/52 3.679
+Calm:244/0/180/4/60/20 3.476
+Bold:252/0/180/4/68/4 3.461
+Other 69.067
+Moves
+Follow_Me 99.943
+Protect 99.242
+Burning_Jealousy 40.115
+Heat_Wave 33.315
+Taunt 32.574
+Overheat 22.972
+Clear_Smog 22.737
+Will-O-Wisp 22.125
+Fire_Spin 11.733
+Other 15.244
+Tera_Types
+Ghost 58.811
+Grass 13.332
+Fairy 10.970
+Dragon 9.283
+Flying 4.163
+Other 3.440
+
+Grimmsnarl
+Abilities
+Prankster 100.000
+Pickpocket 0.000
+Frisk 0.000
+Items
+Covert_Cloak 12.082
+Other 0.582
+Spreads
+Careful:252/4/132/0/116/4 18.715
+Careful:252/0/140/0/116/0 8.703
+Impish:244/4/116/0/140/4 4.802
+Careful:244/4/100/0/124/36 4.179
+Careful:252/4/124/0/116/12 4.137
+Careful:252/0/116/0/140/0 3.682
+Other 55.782
+Moves
+Light_Screen 97.623
+Reflect 96.546
+Spirit_Break 90.478
+Thunder_Wave 88.981
+Parting_Shot 9.263
+Other 17.109
+Tera_Types
+Ghost 80.575
+Grass 9.809
+Steel 6.000
+Other 3.616
+
+Corviknight
+Abilities
+Mirror_Armor 99.753
+Pressure 0.239
+Unnerve 0.008
+Items
+Sitrus_Berry 42.612
+Covert_Cloak 32.180
+Leftovers 12.405
+Safety_Goggles 5.006
+Rocky_Helmet 3.750
+Other 4.047
+Spreads
+Impish:228/4/44/0/44/188 11.811
+Adamant:252/76/4/0/92/84 8.302
+Careful:244/20/20/0/116/108 4.794
+Careful:244/4/4/0/244/12 3.875
+Adamant:252/100/4/0/52/100 3.720
+Impish:220/4/36/0/20/220 3.647
+Other 63.851
+Moves
+Brave_Bird 99.214
+Roost 95.491
+Tailwind 82.177
+Bulk_Up 41.488
+Taunt 33.938
+Body_Press 22.577
+Protect 14.995
+Other 10.119
+Tera_Types
+Dragon 61.115
+Fire 30.227
+Water 3.493
+Electric 1.534
+Other 3.631
+
+Gallade
+Abilities
+Sharpness 99.497
+Steadfast 0.476
+Justified 0.027
+Items
+Clear_Amulet 94.074
+Focus_Sash 1.600
+Other 4.326
+Spreads
+Brave:252/252/0/0/4/0 22.639
+Adamant:212/252/0/0/0/44 18.815
+Adamant:212/252/4/0/4/36 10.189
+Brave:252/252/4/0/0/0 8.105
+Brave:220/252/0/0/36/0 4.585
+Adamant:252/148/0/0/108/0 3.831
+Other 31.836
+Moves
+Sacred_Sword 99.995
+Trick_Room 93.955
+Psycho_Cut 78.062
+Wide_Guard 75.357
+Night_Slash 21.549
+Destiny_Bond 16.842
+Other 14.240
+Tera_Types
+Grass 49.552
+Fire 19.827
+Dark 19.386
+Stellar 3.222
+Steel 2.406
+Water 1.792
+Other 3.815
+
+Jumpluff
+Abilities
+Chlorophyll 100.000
+Infiltrator 0.000
+Leaf_Guard 0.000
+Items
+Covert_Cloak 99.326
+Other 0.674
+Spreads
+Timid:244/0/44/0/0/220 19.981
+Timid:228/0/28/0/0/252 11.765
+Timid:252/0/4/0/0/252 9.358
+Timid:164/0/92/0/0/252 8.436
+Timid:220/0/36/0/0/252 7.870
+Timid:212/0/44/0/0/252 5.161
+Other 37.429
+Moves
+Sleep_Powder 99.869
+Tailwind 99.638
+Sunny_Day 86.179
+Rage_Powder 59.782
+Encore 33.334
+Pollen_Puff 10.201
+Other 10.997
+Tera_Types
+Water 87.792
+Poison 3.881
+Electric 3.467
+Other 4.860
+
+Hydreigon
+Abilities
+Levitate 100.000
+Items
+Safety_Goggles 46.072
+Choice_Specs 16.873
+Life_Orb 14.667
+Covert_Cloak 12.936
+Assault_Vest 4.687
+Other 4.765
+Spreads
+Timid:0/0/0/252/4/252 20.464
+Timid:212/0/4/28/12/252 8.676
+Timid:156/0/44/52/4/252 7.070
+Timid:228/0/4/4/20/252 6.604
+Timid:36/0/4/212/4/252 4.171
+Timid:4/0/4/236/28/236 4.127
+Other 48.889
+Moves
+Draco_Meteor 98.431
+Snarl 88.693
+Protect 75.322
+Tailwind 50.929
+Dark_Pulse 33.191
+Heat_Wave 14.239
+Dragon_Pulse 11.396
+Taunt 10.990
+Other 16.810
+Tera_Types
+Ghost 69.860
+Steel 11.181
+Fire 9.379
+Poison 7.547
+Other 2.033
+
+Charizard
+Abilities
+Solar_Power 99.289
+Blaze 0.711
+Items
+Choice_Specs 92.505
+Choice_Scarf 6.043
+Other 1.453
+Spreads
+Timid:0/0/4/252/0/252 70.503
+Timid:4/0/0/252/0/252 10.196
+Timid:0/0/0/236/20/252 4.958
+Timid:0/0/0/252/4/252 4.945
+Modest:4/0/0/252/0/252 3.349
+Modest:0/0/0/252/4/252 3.014
+Other 3.035
+Moves
+Heat_Wave 99.871
+Overheat 95.872
+Weather_Ball 95.188
+Air_Slash 86.322
+Solar_Beam 7.487
+Other 15.261
+Tera_Types
+Ghost 86.559
+Fire 12.567
+Other 0.874
+
+Excadrill
+Abilities
+Sand_Rush 99.680
+Sand_Force 0.251
+Mold_Breaker 0.069
+Items
+Focus_Sash 87.720
+Clear_Amulet 7.184
+Life_Orb 3.398
+Other 1.697
+Spreads
+Adamant:4/252/0/0/0/252 40.158
+Adamant:0/252/0/0/4/252 16.777
+Adamant:0/252/4/0/0/252 11.648
+Jolly:4/252/0/0/0/252 8.530
+Jolly:0/252/0/0/4/252 7.539
+Jolly:0/252/4/0/0/252 6.345
+Other 9.002
+Moves
+Iron_Head 99.637
+Protect 98.502
+High_Horsepower 94.328
+Earthquake 85.275
+Rock_Slide 13.541
+Other 8.718
+Tera_Types
+Stellar 54.805
+Ground 27.005
+Ghost 14.544
+Other 3.646
+
+Armarouge
+Abilities
+Flash_Fire 72.365
+Weak_Armor 27.635
+Items
+Life_Orb 35.751
+Weakness_Policy 27.311
+Power_Herb 13.776
+Psychic_Seed 12.860
+Covert_Cloak 5.594
+Other 4.708
+Spreads
+Quiet:228/0/0/252/28/0 39.317
+Modest:0/0/124/204/0/180 19.820
+Quiet:252/0/0/116/140/0 4.315
+Modest:160/0/20/200/28/100 4.033
+Modest:4/0/0/252/0/252 3.545
+Modest:124/0/12/252/12/108 3.205
+Other 25.764
+Moves
+Expanding_Force 99.232
+Trick_Room 65.024
+Heat_Wave 52.686
+Armor_Cannon 47.852
+Wide_Guard 27.700
+Endure 23.295
+Protect 22.011
+Stored_Power 21.728
+Aura_Sphere 19.545
+Meteor_Beam 13.778
+Other 7.148
+Tera_Types
+Grass 63.094
+Psychic 26.085
+Water 4.698
+Dark 4.144
+Other 1.979
+
+Zoroark-Hisui
+Abilities
+Illusion 100.000
+Items
+Focus_Sash 68.893
+Choice_Specs 25.343
+Life_Orb 5.125
+Other 0.638
+Spreads
+Timid:4/0/0/252/0/252 59.496
+Timid:0/0/0/252/4/252 28.261
+Timid:0/0/4/252/0/252 5.786
+Timid:0/0/0/252/0/252 1.797
+Other 4.659
+Moves
+Icy_Wind 75.534
+Bitter_Malice 62.925
+Protect 54.054
+Taunt 50.834
+Hyper_Voice 42.384
+Shadow_Ball 37.006
+Hyper_Beam 28.327
+Fake_Tears 14.111
+Flamethrower 11.345
+Trick 8.737
+Other 14.743
+Tera_Types
+Ghost 49.375
+Stellar 31.919
+Normal 13.964
+Other 4.741
+
+Baxcalibur
+Abilities
+Thermal_Exchange 98.920
+Ice_Body 1.080
+Items
+Loaded_Dice 89.086
+Clear_Amulet 4.573
+Life_Orb 4.207
+Other 2.135
+Spreads
+Adamant:12/236/4/0/4/252 27.007
+Adamant:12/252/12/0/28/204 8.484
+Adamant:20/228/28/0/4/204 5.968
+Adamant:12/252/28/0/12/204 4.791
+Adamant:12/236/12/0/4/244 4.761
+Adamant:60/252/56/0/60/80 4.579
+Other 44.410
+Moves
+Protect 98.213
+Ice_Shard 94.227
+Icicle_Spear 89.160
+Scale_Shot 87.263
+Glaive_Rush 12.176
+Other 18.960
+Tera_Types
+Ghost 70.643
+Fire 7.244
+Dragon 6.077
+Ground 5.911
+Poison 4.452
+Water 2.952
+Other 2.723
+
+Flamigo
+Abilities
+Scrappy 95.675
+Costar 4.325
+Items
+Focus_Sash 88.491
+White_Herb 3.467
+Covert_Cloak 2.483
+Choice_Scarf 2.336
+Other 3.222
+Spreads
+Jolly:4/252/0/0/0/252 44.985
+Jolly:0/252/0/0/4/252 26.951
+Jolly:0/252/4/0/0/252 16.869
+Adamant:4/252/0/0/0/252 5.366
+Jolly:12/164/4/0/76/252 2.077
+Other 3.752
+Moves
+Close_Combat 99.999
+Brave_Bird 52.530
+Dual_Wingbeat 50.514
+Protect 49.858
+Wide_Guard 47.632
+Detect 45.653
+Tailwind 41.391
+Other 12.424
+Tera_Types
+Ghost 70.089
+Stellar 20.299
+Steel 5.468
+Other 4.144
+
+Blaziken
+Abilities
+Speed_Boost 99.979
+Blaze 0.021
+Items
+Focus_Sash 91.104
+Covert_Cloak 5.315
+Other 3.581
+Spreads
+Timid:0/0/0/252/4/252 30.942
+Timid:4/0/0/252/0/252 20.792
+Modest:68/0/4/180/4/252 8.819
+Modest:20/0/4/228/4/252 6.946
+Modest:4/0/0/252/0/252 6.538
+Modest:0/0/0/252/4/252 5.871
+Other 20.093
+Moves
+Aura_Sphere 97.852
+Heat_Wave 97.099
+Coaching 96.031
+Protect 74.444
+Detect 20.844
+Other 13.730
+Tera_Types
+Fire 70.989
+Stellar 14.022
+Ghost 8.171
+Dragon 4.634
+Other 2.184
+
+Murkrow
+Abilities
+Prankster 99.973
+Insomnia 0.027
+Items
+Eviolite 97.842
+Other 2.158
+Spreads
+Bold:252/0/220/0/36/0 10.875
+Calm:252/0/116/0/140/0 9.249
+Relaxed:252/0/128/0/128/0 7.055
+Careful:180/0/76/0/252/0 4.836
+Bold:252/0/228/0/28/0 4.309
+Bold:252/0/140/0/116/0 4.182
+Other 59.493
+Moves
+Tailwind 99.926
+Haze 96.074
+Foul_Play 86.968
+Rain_Dance 37.651
+Sunny_Day 27.555
+Brave_Bird 14.057
+Protect 10.356
+Taunt 8.794
+Other 18.619
+Tera_Types
+Ghost 84.054
+Steel 7.797
+Grass 5.181
+Other 2.968
+
+Smeargle
+Abilities
+Moody 95.809
+Technician 3.148
+Own_Tempo 1.043
+Items
+Focus_Sash 98.876
+Other 1.124
+Spreads
+Jolly:252/4/0/0/0/252 28.713
+Jolly:252/0/4/0/0/252 19.021
+Timid:4/0/252/0/0/252 9.965
+Timid:252/0/4/0/0/252 7.408
+Timid:236/0/20/0/0/252 7.051
+Jolly:244/4/4/0/4/252 4.045
+Other 23.798%
+Moves
+Spore 99.435
+Follow_Me 98.707
+Fake_Out 77.908
+Tailwind 42.074
+Decorate 34.206
+Spiky_Shield 23.614
+Wide_Guard 13.858
+Other 10.197
+Tera_Types
+Ghost 82.893
+Grass 14.528
+Other 2.578
+
+Ribombee
+Abilities
+Shield_Dust 95.307
+Sweet_Veil 4.097
+Honey_Gather 0.596
+Items
+Focus_Sash 97.148
+Other 2.852
+Spreads
+Timid:0/0/4/252/0/252 51.616
+Timid:4/0/0/252/0/252 38.802
+Timid:0/0/0/252/4/252 5.812
+Other 3.769
+Moves
+Tailwind 98.159
+Moonblast 98.048
+Protect 84.682
+Fake_Tears 83.853
+Pollen_Puff 16.399
+Other 18.859
+Tera_Types
+Fairy 71.758
+Ghost 10.098
+Dark 7.489
+Grass 6.309
+Other 4.346
+
+Weezing-Galar
+Abilities
+Neutralizing_Gas 98.806
+Misty_Surge 0.723
+Levitate 0.471
+Items
+Choice_Specs 52.370
+Sitrus_Berry 20.002
+Air_Balloon 8.491
+Covert_Cloak 6.745
+Focus_Sash 5.861
+Rocky_Helmet 2.640
+Other 3.891
+Spreads
+Modest:52/0/4/252/4/196 16.194
+Modest:252/0/0/116/140/0 12.597
+Modest:116/0/4/196/116/76 10.118
+Modest:252/0/4/36/180/36 5.139
+Calm:252/0/4/4/196/52 4.152
+Timid:4/0/0/252/0/252 3.777
+Other 48.024
+Moves
+Sludge_Bomb 88.322
+Dazzling_Gleam 83.599
+Protect 58.598
+Strange_Steam 54.423
+Taunt 37.144
+Flamethrower 32.051
+Tera_Blast 19.254
+Poison_Gas 7.239
+Other 19.370
+Tera_Types
+Water 30.141
+Fire 23.666
+Ghost 18.507
+Flying 16.923
+Dark 5.329
+Grass 3.541
+Other 1.894
+
+Salamence
+Abilities
+Intimidate 96.813
+Moxie 3.187
+Items
+Life_Orb 32.540
+Mirror_Herb 31.514
+Covert_Cloak 7.760
+Choice_Scarf 3.616
+Rocky_Helmet 2.789
+Choice_Specs 2.783
+Lum_Berry 2.730
+Safety_Goggles 2.069
+Other 3.466
+Spreads
+Timid:4/0/0/252/0/252 26.536
+Jolly:4/252/0/0/0/252 13.476
+Jolly:164/60/52/0/4/228 5.332
+Jolly:68/252/4/0/4/180 3.905
+Timid:0/0/0/252/4/252 3.690
+Adamant:12/244/0/0/0/252 2.926
+Other 44.135
+Moves
+Tailwind 91.664
+Protect 84.398
+Draco_Meteor 53.161
+Air_Slash 47.973
+Dual_Wingbeat 46.478
+Brick_Break 19.445
+Dragon_Claw 18.316
+Heat_Wave 9.217
+Sunny_Day 6.588
+Rock_Slide 5.078
+Other 17.683
+Tera_Types
+Steel 47.468
+Fighting 20.102
+Fairy 12.547
+Fire 11.775
+Ghost 2.451
+Flying 1.600
+Other 4.057
+
+Garganacl
+Abilities
+Purifying_Salt 99.994
+Sturdy 0.006
+Clear_Body 0.000
+Items
+Maranga_Berry 89.327
+Leftovers 9.191
+Other 1.482
+Spreads
+Careful:252/0/4/0/252/0 65.510
+Impish:252/0/4/0/252/0 7.993
+Careful:244/0/12/0/252/0 4.958
+Careful:252/0/76/0/180/0 3.841
+Careful:252/0/20/0/236/0 3.644
+Careful:252/0/100/0/156/0 1.978
+Other 12.077
+Moves
+Salt_Cure 99.994
+Recover 99.721
+Protect 92.624
+Stealth_Rock 72.785
+Wide_Guard 18.829
+Other 16.047
+Tera_Types
+Flying 87.284
+Ghost 9.150
+Other 3.566
+
+Glimmora
+Abilities
+Toxic_Debris 99.168
+Corrosion 0.832
+Items
+Power_Herb 76.154
+Focus_Sash 9.779
+Assault_Vest 6.487
+Sitrus_Berry 2.793
+Other 4.787
+Spreads
+Timid:4/0/0/252/0/252 43.474
+Timid:0/0/0/252/4/252 11.884
+Timid:20/0/12/220/4/252 10.070
+Timid:12/0/4/236/4/252 6.233
+Timid:140/0/4/108/4/252 3.664
+Timid:252/0/0/12/0/244 2.358
+Other 22.317
+Moves
+Sludge_Bomb 94.269
+Earth_Power 91.771
+Spiky_Shield 89.595
+Meteor_Beam 76.268
+Mortal_Spin 17.163
+Power_Gem 16.593
+Other 14.340
+Tera_Types
+Grass 86.135
+Ghost 2.256
+Bug 2.173
+Water 1.919
+Ground 1.736
+Rock 1.653
+Other 4.127
