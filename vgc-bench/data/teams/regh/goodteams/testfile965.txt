@@ -1,0 +1,72 @@
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Moonblast
+- Sunny Day
+- Encore
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+EVs: 148 HP / 0 Atk / 12 Def / 196 SpA / 100 SpD / 52 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Protect
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 132 HP / 0 Atk / 28 Def / 156 SpA / 188 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Trick Room
+- Protect
+- Hyper Voice
+- Psychic
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 116 Atk / 4 Def / 0 SpA / 60 SpD / 76 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grassy Glide
+- Wood Hammer
+- Fake Out
+- U-turn
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 36 Atk / 0 Def / 0 SpA / 0 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Eruption
+- Heat Wave
+- Shadow Ball
+- Overheat

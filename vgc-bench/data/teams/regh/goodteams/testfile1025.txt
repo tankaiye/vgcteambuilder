@@ -1,0 +1,72 @@
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 180 HP / 0 Atk / 76 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Foul Play
+- Tailwind
+- Haze
+- Rain Dance
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Bug
+EVs: 244 HP / 0 Atk / 76 Def / 4 SpA / 172 SpD / 12 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Body Press
+- Dragon Pulse
+- Flash Cannon
+- Electro Shot
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Last Respects
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+EVs: 188 HP / 0 Atk / 4 Def / 116 SpA / 148 SpD / 52 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blood Moon
+- Earth Power
+- Protect
+- Hyper Voice
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+Tera Type: Stellar
+EVs: 0 HP / 0 Atk / 36 Def / 220 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wide Guard
+- Hurricane
+- Weather Ball
+- Protect
+
+Rillaboom @ Miracle Seed
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 196 Atk / 4 Def / 0 SpA / 20 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Taunt
+- Wood Hammer
+- Grassy Glide
+- Fake Out

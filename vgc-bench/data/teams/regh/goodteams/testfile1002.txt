@@ -1,0 +1,72 @@
+
+Grimmsnarl @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 140 Def / 0 SpA / 116 SpD / 0 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spirit Break
+- Light Screen
+- Reflect
+- Thunder Wave
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Fire
+EVs: 228 HP / 4 Atk / 44 Def / 0 SpA / 44 SpD / 188 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Body Press
+- Bulk Up
+- Roost
+
+Volcarona @ Leftovers
+Ability: Flame Body
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 76 Def / 36 SpA / 4 SpD / 140 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Protect
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 4 Def / 236 SpA / 28 SpD / 236 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Dark Pulse
+- Snarl
+- Protect
+
+Garchomp @ Clear Amulet
+Ability: Rough Skin
+Level: 50
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Rock Slide
+- Stomping Tantrum
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Trick
