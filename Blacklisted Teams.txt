@@ -1,0 +1,68 @@
+Blacklisted Teams
+
+Lille
+
+#4 (Weavile)
+#8 (Toedscruel)
+#18 (Daschbun)
+#30 (Tsareena)
+#37 (Toedscruel)
+#40 (Gastrodon)
+#53 (Scizor)
+#67 (what) (Toedscruel, Comfey, and Kingdra???)
+#68 (Toedscruel)
+#73 (Kleavor)
+#80 (Slaking)
+##87 (Zoroark-H)
+
+Total: 12/98
+
+2/13 in Top Cut
+
+Belo Horizonte
+
+#2 (Rotom-Wash)
+#22 (Espartha)
+
+Total: 2/28
+
+1/11 in Top Cut
+
+Milwaukee
+
+##6 (Zoroark)
+#21 (Meowscarada, Tauros, Metagross)
+#25 (Lucario)
+#29 (whatx2) (Reg Weezing, Slaking and Mammoswine???)
+#34 (Ninetales (regular))
+##40 (Zoroark-H)
+#41 (Vivilon)
+#42 (Oricorio and Golduck)
+##50 (Zoroark-H)
+#53 (Brav-H and Politoad)
+##57 (Zoroark-H)
+#62 (no) (Malamar, Tox, Noivern)
+#72 (Quaquaval)
+#76 (Scyther, Clodsire)
+#80 (why the hell is sunflora here)
+#84 (Driftblom)
+#87 (Orangaru)
+##88 (Zoroark-H)
+#89 (Klefki)
+#95 (Scyther)
+
+Total: 20/101
+
+1/13 in Top Cut
+
+Total Teams Banned: 34/227
+Total Teams Usable: 193/227
+
+Top Cut Teams: 33/193
+
+7 + 26 Testing Teams
+
+32 + 128 Training Teams
+
+
+Turn all Commander into Storm Drain
