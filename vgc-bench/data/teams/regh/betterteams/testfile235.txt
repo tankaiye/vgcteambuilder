@@ -1,0 +1,72 @@
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Stone Edge
+- Tera Blast
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Fire
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Body Press
+- Bulk Up
+- Tailwind
+
+Hydreigon @ Life Orb
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 4 Def / 236 SpA / 28 SpD / 236 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dark Pulse
+- Draco Meteor
+- Fire Blast
+- Protect
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Electric
+EVs: 244 HP / 0 Atk / 164 Def / 0 SpA / 100 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Clear Smog
+- Spore
+- Rage Powder
+- Protect
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 44 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Knock Off
+- Fake Out
+- U-turn
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- High Horsepower
+- Iron Head
+- Earthquake
+- Protect

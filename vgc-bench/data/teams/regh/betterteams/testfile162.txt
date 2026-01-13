@@ -1,0 +1,72 @@
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Make It Rain
+- Nasty Plot
+- Protect
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+EVs: 148 HP / 0 Atk / 12 Def / 196 SpA / 100 SpD / 52 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 156 HP / 252 Atk / 4 Def / 0 SpA / 92 SpD / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Swords Dance
+- Acrobatics
+- Close Combat
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Aurora Veil
+- Tera Blast
+- Protect
