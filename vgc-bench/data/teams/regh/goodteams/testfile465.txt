@@ -1,0 +1,72 @@
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 12 HP / 0 Atk / 12 Def / 252 SpA / 4 SpD / 228 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Moonblast
+- Sunny Day
+- Protect
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 0 Atk / 4 Def / 244 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+Ursaluna-Bloodmoon @ Life Orb
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+EVs: 148 HP / 0 Atk / 12 Def / 196 SpA / 100 SpD / 52 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Protect
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Indeedee-F @ Rocky Helmet
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 0 Atk / 252 Def / 0 SpA / 20 SpD / 0 Spe
+Relaxed Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Psychic
+- Follow Me
+- Helping Hand
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 164 HP / 0 Atk / 0 Def / 252 SpA / 92 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Eruption
+- Weather Ball
+- Helping Hand
+- Yawn

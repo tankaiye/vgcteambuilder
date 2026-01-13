@@ -1,0 +1,72 @@
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 180 Def / 4 SpA / 68 SpD / 4 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Burning Jealousy
+- Taunt
+- Follow Me
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Liquidation
+- Last Respects
+- Aqua Jet
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Close Combat
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Ice
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Icy Wind
+- Encore
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 156 SpD / 108 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Kingambit @ Black Glasses
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect

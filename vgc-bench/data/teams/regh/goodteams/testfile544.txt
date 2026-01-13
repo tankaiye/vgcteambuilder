@@ -1,0 +1,72 @@
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 220 Atk / 28 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Liquidation
+- Aqua Jet
+- Protect
+- Last Respects
+
+Incineroar @ Assault Vest
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Knock Off
+- Flare Blitz
+- Fake Out
+- U-turn
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 60 Def / 4 SpA / 132 SpD / 60 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Flash Cannon
+- Electro Shot
+- Protect
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Moonblast
+- Fake Tears
+- Encore
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect
+
+Pelipper @ Choice Scarf
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 36 Def / 212 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Weather Ball
+- Hurricane
+- Icy Wind
+- Muddy Water

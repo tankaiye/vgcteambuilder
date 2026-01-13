@@ -1,0 +1,72 @@
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Stellar
+EVs: 180 HP / 68 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Fist
+- Close Combat
+- Coaching
+- Taunt
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 44 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scale Shot
+- Extreme Speed
+- Haze
+- Protect
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 100 Def / 4 SpA / 4 SpD / 148 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunderbolt
+- Electroweb
+- Follow Me
+- Protect
+
+Incineroar @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 4 Atk / 76 Def / 0 SpA / 124 SpD / 60 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Gholdengo @ Sitrus Berry
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 156 SpD / 108 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
