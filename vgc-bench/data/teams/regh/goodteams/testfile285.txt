@@ -1,0 +1,72 @@
+
+Garchomp @ Clear Amulet
+Ability: Rough Skin
+Level: 50
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Dragon Claw
+- Stomping Tantrum
+- Protect
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 92 HP / 156 Atk / 12 Def / 0 SpA / 28 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Parting Shot
+- Will-O-Wisp
+- Fake Out
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 100 Atk / 4 Def / 0 SpA / 52 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Taunt
+- Roost
+- Tailwind
+
+Sneasler @ Air Balloon
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dire Claw
+- Close Combat
+- Coaching
+- Fake Out
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Flying
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect

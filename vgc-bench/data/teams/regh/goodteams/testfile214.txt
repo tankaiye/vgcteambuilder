@@ -1,0 +1,72 @@
+
+Maushold @ Wide Lens
+Ability: Technician
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Beat Up
+- Population Bomb
+- Follow Me
+
+Grimmsnarl @ Light Clay
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 4 Atk / 116 Def / 0 SpA / 140 SpD / 4 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Reflect
+- Fake Out
+- Parting Shot
+- Light Screen
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Poison
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 156 SpD / 108 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- U-turn
+- Grassy Glide
+- Drum Beating
+- Fake Out
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Poison
+EVs: 188 HP / 0 Atk / 4 Def / 116 SpA / 148 SpD / 52 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Earth Power
+- Calm Mind
+- Blood Moon
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Matcha Gotcha
+- Strength Sap
+
+Annihilape @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+EVs: 180 HP / 52 Atk / 12 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Rage Fist
+- Drain Punch
+- Bulk Up

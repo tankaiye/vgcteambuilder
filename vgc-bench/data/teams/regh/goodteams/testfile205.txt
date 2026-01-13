@@ -1,0 +1,72 @@
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Leaf Blade
+- Close Combat
+- After You
+- Sleep Powder
+
+Dragapult @ Choice Band
+Ability: Clear Body
+Level: 50
+Tera Type: Dragon
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Darts
+- Phantom Force
+- Outrage
+- U-turn
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Normal
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Earth Power
+- Blood Moon
+- Vacuum Wave
+
+Farigiraf @ Throat Spray
+Ability: Armor Tail
+Level: 50
+Tera Type: Water
+EVs: 160 HP / 0 Atk / 116 Def / 156 SpA / 76 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Hyper Voice
+- Psychic
+- Helping Hand
+- Trick Room
+
+Torkoal @ Charcoal
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 164 HP / 0 Atk / 0 Def / 252 SpA / 92 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Eruption
+- Heat Wave
+- Helping Hand
+- Protect
+
+Volcarona @ Life Orb
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 4 SpD / 180 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Heat Wave
+- Giga Drain
+- Quiver Dance
+- Rage Powder

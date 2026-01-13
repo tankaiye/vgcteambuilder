@@ -1,0 +1,72 @@
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 108 HP / 124 Atk / 12 Def / 0 SpA / 12 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 0 Atk / 156 Def / 0 SpA / 108 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spore
+- Rage Powder
+- Sludge Bomb
+- Protect
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Flare Blitz
+- Knock Off
+- Parting Shot
+
+Kilowattrel @ Choice Specs
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 12 Def / 228 SpA / 12 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Volt Switch
+- Thunderbolt
+- Discharge
+- Air Slash
+
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- High Horsepower
+- Iron Head
+- Protect
+
+Kommo-o @ Leftovers
+Ability: Overcoat
+Level: 50
+Tera Type: Steel
+EVs: 76 HP / 0 Atk / 4 Def / 132 SpA / 76 SpD / 220 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Defense
+- Body Press
+- Throat Chop
+- Protect
