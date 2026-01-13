@@ -1,0 +1,72 @@
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Electric
+EVs: 188 HP / 0 Atk / 4 Def / 116 SpA / 148 SpD / 52 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blood Moon
+- Earth Power
+- Yawn
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 196 Atk / 4 Def / 0 SpA / 20 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Sneasler @ Grassy Seed
+Ability: Unburden
+Level: 50
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Acrobatics
+- Swords Dance
+- Protect
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Icy Wind
+- Aurora Veil
+- Protect
+
+Incineroar @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 4 Atk / 76 Def / 0 SpA / 124 SpD / 60 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Parting Shot
+- Flare Blitz
+- Knock Off
+- Fake Out
