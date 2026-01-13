@@ -1,0 +1,4275 @@
+Now Testing:
+Incineroar
+
+Incineroar @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 36 Atk / 0 Def / 0 SpA / 0 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Knock Off
+- Parting Shot
+- U-turn
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 44 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 100 Atk / 4 Def / 0 SpA / 52 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Taunt
+- Body Press
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Now Testing:
+Gholdengo
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Nasty Plot
+- Trick
+- Power Gem
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Bulk Up
+- Body Press
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 212 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Primarina @ Splash Plate
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Now Testing:
+Rillaboom
+
+Rillaboom @ Meadow Plate
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 116 Atk / 4 Def / 0 SpA / 60 SpD / 76 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Wood Hammer
+- High Horsepower
+- U-turn
+
+Armarouge @ Psychic Seed
+Ability: Weak Armor
+Level: 50
+Tera Type: Grass
+EVs: 124 HP / 0 Atk / 12 Def / 252 SpA / 12 SpD / 108 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Expanding Force
+- Trick Room
+- Aura Sphere
+- Meteor Beam
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Nasty Plot
+- Trick
+- Power Gem
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Dual Wingbeat
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 4 Def / 36 SpA / 92 SpD / 124 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electro Shot
+- Flash Cannon
+- Body Press
+- Draco Meteor
+
+Primarina @ Choice Specs
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Now Testing:
+Ursaluna-Bloodmoon
+
+Ursaluna-Bloodmoon @ Leftovers
+Ability: Mind's Eye
+Level: 50
+Tera Type: Electric
+EVs: 156 HP / 0 Atk / 12 Def / 36 SpA / 172 SpD / 132 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Yawn
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 44 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sacred Sword
+- Trick Room
+- Psycho Cut
+- Wide Guard
+
+Kilowattrel @ Covert Cloak
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Air Slash
+- Tailwind
+- Thunderbolt
+- Protect
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 228 HP / 4 Atk / 44 Def / 0 SpA / 44 SpD / 188 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Taunt
+- Body Press
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 36 Def / 188 SpA / 4 SpD / 28 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Now Testing:
+Dragonite
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+EVs: 44 HP / 204 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scale Shot
+- Tailwind
+- Extreme Speed
+- Stomping Tantrum
+
+Farigiraf @ Psychic Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 132 HP / 0 Atk / 28 Def / 156 SpA / 188 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Expanding Force
+- Tera Blast
+- Twin Beam
+- Dazzling Gleam
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Primarina @ Sitrus Berry
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 220 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 220 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Taunt
+- Body Press
+
+Now Testing:
+Sneasler
+
+Sneasler @ White Herb
+Ability: Poison Touch
+Level: 50
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Swords Dance
+- Coaching
+- Throat Chop
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Sinistcha @ Rocky Helmet
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Armarouge @ Psychic Seed
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Expanding Force
+- Trick Room
+- Endure
+- Meteor Beam
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Now Testing:
+Ninetales-Alola
+
+Ninetales-Alola @ Focus Sash
+Ability: Snow Warning
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aurora Veil
+- Encore
+- Freeze-Dry
+- Moonblast
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 116 HP / 124 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 212 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Garchomp @ Life Orb
+Ability: Sand Veil
+Level: 50
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Now Testing:
+Annihilape
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+EVs: 180 HP / 68 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Fist
+- Bulk Up
+- Final Gambit
+- Taunt
+
+Armarouge @ Power Herb
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 116 SpA / 140 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Trick Room
+- Heat Wave
+- Endure
+- Stored Power
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Bulk Up
+- Taunt
+- Body Press
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Arcanine-Hisui @ Choice Band
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Now Testing:
+Archaludon
+
+Archaludon @ Assault Vest
+Ability: Stalwart
+Level: 50
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Body Press
+- Draco Meteor
+- Snarl
+- Dragon Pulse
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Heat Wave
+- Stored Power
+- Aura Sphere
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Dual Wingbeat
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 36 Def / 188 SpA / 4 SpD / 28 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Now Testing:
+Basculegion
+
+Basculegion @ Choice Band
+Ability: Swift Swim
+Level: 50
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Last Respects
+- Wave Crash
+- Flip Turn
+- Liquidation
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Armarouge @ Covert Cloak
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 160 HP / 0 Atk / 20 Def / 200 SpA / 28 SpD / 100 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Expanding Force
+- Trick Room
+- Endure
+- Meteor Beam
+
+Archaludon @ Power Herb
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electro Shot
+- Flash Cannon
+- Body Press
+- Dragon Pulse
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 212 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Now Testing:
+Volcarona
+
+Volcarona @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 60 Def / 36 SpA / 4 SpD / 156 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Heat Wave
+- Tera Blast
+- Rage Powder
+- Giga Drain
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 44 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sacred Sword
+- Trick Room
+- Night Slash
+- Destiny Bond
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 0 Def / 252 SpA / 44 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Now Testing:
+Ursaluna
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Facade
+- Headlong Rush
+- Earthquake
+- Protect
+
+Archaludon @ Power Herb
+Ability: Stalwart
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 4 Def / 36 SpA / 92 SpD / 124 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flash Cannon
+- Draco Meteor
+- Snarl
+- Dragon Pulse
+
+Tyranitar @ Clear Amulet
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 92 HP / 156 Atk / 12 Def / 0 SpA / 28 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Armarouge @ Weakness Policy
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 228 HP / 0 Atk / 0 Def / 252 SpA / 28 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Expanding Force
+- Wide Guard
+- Endure
+- Stored Power
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 36 Def / 0 SpA / 220 SpD / 0 Spe
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Now Testing:
+Kingambit
+
+Kingambit @ Dread Plate
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+EVs: 212 HP / 252 Atk / 4 Def / 0 SpA / 4 SpD / 36 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sucker Punch
+- Kowtow Cleave
+- Swords Dance
+- Low Kick
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 92 HP / 156 Atk / 12 Def / 0 SpA / 28 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Now Testing:
+Amoonguss
+
+Amoonguss @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+Tera Type: Water
+EVs: 244 HP / 0 Atk / 188 Def / 0 SpA / 76 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spore
+- Rage Powder
+- Pollen Puff
+- Clear Smog
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 100 Def / 36 SpA / 116 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Tera Blast
+- Recover
+- Ice Beam
+
+Tyranitar @ Clear Amulet
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 100 HP / 132 Atk / 12 Def / 0 SpA / 60 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 228 HP / 4 Atk / 44 Def / 0 SpA / 44 SpD / 188 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Taunt
+- Body Press
+
+Now Testing:
+Pelipper
+
+Pelipper @ Covert Cloak
+Ability: Drizzle
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 36 Def / 220 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hurricane
+- Tailwind
+- Weather Ball
+- Muddy Water
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 244 SpD / 12 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Bulk Up
+- Body Press
+
+Armarouge @ Weakness Policy
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 124 HP / 0 Atk / 12 Def / 252 SpA / 12 SpD / 108 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Armor Cannon
+- Aura Sphere
+- Meteor Beam
+
+Primarina @ Throat Spray
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Now Testing:
+Maushold
+
+Maushold @ Wide Lens
+Ability: Friend Guard
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Beat Up
+- Super Fang
+- Taunt
+- Feint
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 108 HP / 124 Atk / 12 Def / 0 SpA / 12 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Taunt
+
+Now Testing:
+Sinistcha
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 244 SpD / 12 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Bulk Up
+- Taunt
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Primarina @ Throat Spray
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Now Testing:
+Tyranitar
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 92 HP / 156 Atk / 12 Def / 0 SpA / 28 SpD / 220 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Primarina @ Throat Spray
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Tailwind
+- Bulk Up
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 36 Def / 0 SpA / 220 SpD / 0 Spe
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Now Testing:
+Whimsicott
+
+Whimsicott @ Focus Sash
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 12 Def / 4 SpA / 92 SpD / 148 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Moonblast
+- Taunt
+- Beat Up
+
+Tyranitar @ Clear Amulet
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Brave Bird
+- Dual Wingbeat
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Sinistcha @ Rocky Helmet
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Now Testing:
+Torkoal
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Heat Wave
+- Earth Power
+- Clear Smog
+- Flamethrower
+
+Gallade @ Focus Sash
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Trick Room
+- Psycho Cut
+- Wide Guard
+- Destiny Bond
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 100 HP / 132 Atk / 12 Def / 0 SpA / 60 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 0 Def / 188 SpA / 108 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Bulk Up
+- Body Press
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Now Testing:
+Porygon2
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 4 Atk / 92 Def / 124 SpA / 36 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Trick Room
+- Tera Blast
+- Recover
+- Ice Beam
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Primarina @ Splash Plate
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Water Pledge
+
+Archaludon @ Assault Vest
+Ability: Sturdy
+Level: 50
+Tera Type: Fighting
+EVs: 244 HP / 0 Atk / 76 Def / 4 SpA / 172 SpD / 12 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electro Shot
+- Body Press
+- Snarl
+- Dragon Pulse
+
+Corviknight @ Rocky Helmet
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 220 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 220 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Bulk Up
+- Taunt
+- Body Press
+
+Now Testing:
+Kilowattrel
+
+Kilowattrel @ Focus Sash
+Ability: Competitive
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Air Slash
+- Tailwind
+- Thunderbolt
+- Protect
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 220 HP / 252 Atk / 0 Def / 0 SpA / 36 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Sacred Sword
+- Trick Room
+- Psycho Cut
+- Destiny Bond
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Water Pledge
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 212 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Now Testing:
+Farigiraf
+
+Farigiraf @ Psychic Seed
+Ability: Armor Tail
+Level: 50
+Tera Type: Fairy
+EVs: 108 HP / 0 Atk / 180 Def / 76 SpA / 28 SpD / 116 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Expanding Force
+- Tera Blast
+- Dazzling Gleam
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+
+Archaludon @ Power Herb
+Ability: Stamina
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 4 Def / 36 SpA / 92 SpD / 124 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electro Shot
+- Body Press
+- Draco Meteor
+- Dragon Pulse
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Bulk Up
+- Taunt
+- Body Press
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Now Testing:
+Indeedee-F
+
+Indeedee-F @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 236 Def / 0 SpA / 20 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Psychic
+- Helping Hand
+- Heal Pulse
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 44 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 36 Def / 188 SpA / 4 SpD / 28 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Now Testing:
+Garchomp
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Armarouge @ Power Herb
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 160 HP / 0 Atk / 20 Def / 200 SpA / 28 SpD / 100 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Endure
+- Stored Power
+- Meteor Beam
+
+Arcanine-Hisui @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 148 Atk / 52 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Corviknight @ Rocky Helmet
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 100 Atk / 4 Def / 0 SpA / 52 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Bulk Up
+- Taunt
+- Body Press
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Now Testing:
+Dondozo
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 0 Atk / 68 Def / 0 SpA / 196 SpD / 0 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Order Up
+- Earthquake
+- Fissure
+- Liquidation
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 212 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Brave Bird
+- Flare Blitz
+
+Farigiraf @ Psychic Seed
+Ability: Sap Sipper
+Level: 50
+Tera Type: Fairy
+EVs: 108 HP / 0 Atk / 180 Def / 76 SpA / 68 SpD / 76 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Hyper Voice
+- Expanding Force
+- Tera Blast
+
+Primarina @ Sitrus Berry
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Bulk Up
+- Taunt
+
+Now Testing:
+Electabuzz
+
+Electabuzz @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+EVs: 148 HP / 0 Atk / 100 Def / 4 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Taunt
+- Electroweb
+- Thunderbolt
+- Helping Hand
+
+Primarina @ Choice Specs
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 44 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sacred Sword
+- Trick Room
+- Psycho Cut
+- Wide Guard
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Now Testing:
+Typhlosion-Hisui
+
+Typhlosion-Hisui @ Choice Specs
+Ability: Blaze
+Level: 50
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 44 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 116 HP / 124 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 244 SpD / 12 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Bulk Up
+- Body Press
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Psycho Cut
+- Wide Guard
+- Night Slash
+- Destiny Bond
+
+Now Testing:
+Indeedee
+
+Indeedee @ Choice Scarf
+Ability: Psychic Surge
+Level: 50
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tera Blast
+- Trick
+- Trick Room
+- Fake Out
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 148 Atk / 0 Def / 0 SpA / 108 SpD / 0 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sacred Sword
+- Psycho Cut
+- Wide Guard
+- Destiny Bond
+
+Arcanine-Hisui @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 148 Atk / 52 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Bulk Up
+- Taunt
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Now Testing:
+Primarina
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Dual Wingbeat
+
+Sinistcha @ Rocky Helmet
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 36 Def / 0 SpA / 220 SpD / 0 Spe
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 44 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Bulk Up
+- Body Press
+
+Now Testing:
+Dragapult
+
+Dragapult @ Choice Band
+Ability: Infiltrator
+Level: 50
+Tera Type: Dragon
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Darts
+- Draco Meteor
+- Shadow Ball
+- Curse
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Flare Blitz
+- Taunt
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 228 HP / 4 Atk / 44 Def / 0 SpA / 44 SpD / 188 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Bulk Up
+- Taunt
+- Body Press
+
+Now Testing:
+Tatsugiri
+
+Tatsugiri @ Assault Vest
+Ability: Storm Drain
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Icy Wind
+- Dragon Pulse
+- Tera Blast
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 68 Def / 196 SpA / 28 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 228 HP / 4 Atk / 44 Def / 0 SpA / 44 SpD / 188 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Taunt
+- Body Press
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Now Testing:
+Talonflame
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Brave Bird
+- Flare Blitz
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Primarina @ Throat Spray
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Calm Mind
+- Water Pledge
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Nasty Plot
+- Trick
+- Power Gem
+
+Corviknight @ Rocky Helmet
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 220 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 220 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Taunt
+- Body Press
+
+Now Testing:
+Lilligant-Hisui
+
+Lilligant-Hisui @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Solar Blade
+- Leaf Blade
+- Encore
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Arcanine-Hisui @ Life Orb
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 148 Atk / 52 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Corviknight @ Covert Cloak
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 100 Atk / 4 Def / 0 SpA / 52 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Tailwind
+- Taunt
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Armarouge @ Power Herb
+Ability: Weak Armor
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 116 SpA / 140 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Heat Wave
+- Wide Guard
+- Stored Power
+- Meteor Beam
+
+Now Testing:
+Arcanine-Hisui
+
+Arcanine-Hisui @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Tailwind
+- Bulk Up
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Primarina @ Focus Sash
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Now Testing:
+Hatterene
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 0 Def / 188 SpA / 108 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Primarina @ Choice Specs
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Nasty Plot
+- Trick
+- Power Gem
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Bulk Up
+- Taunt
+
+Now Testing:
+Kommo-o
+
+Kommo-o @ Clear Amulet
+Ability: Soundproof
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Clanging Scales
+- Flamethrower
+- Clangorous Soul
+- Iron Defense
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 132 HP / 0 Atk / 4 Def / 116 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Brave Bird
+- Flare Blitz
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Armarouge @ Life Orb
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 116 SpA / 140 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Armor Cannon
+- Wide Guard
+- Aura Sphere
+- Meteor Beam
+
+Now Testing:
+Magmar
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+EVs: 212 HP / 0 Atk / 236 Def / 4 SpA / 4 SpD / 52 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Heat Wave
+- Overheat
+- Will-O-Wisp
+- Fire Spin
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 68 Def / 196 SpA / 28 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 220 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 220 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Taunt
+- Body Press
+
+Tyranitar @ Clear Amulet
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Now Testing:
+Grimmsnarl
+
+Grimmsnarl @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 4 Atk / 124 Def / 0 SpA / 116 SpD / 12 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Light Screen
+- Reflect
+- Thunder Wave
+- Parting Shot
+
+Farigiraf @ Safety Goggles
+Ability: Sap Sipper
+Level: 50
+Tera Type: Fairy
+EVs: 188 HP / 0 Atk / 44 Def / 156 SpA / 116 SpD / 4 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Hyper Voice
+- Twin Beam
+- Dazzling Gleam
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Brave Bird
+- Flare Blitz
+
+Arcanine-Hisui @ Clear Amulet
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 148 Atk / 84 Def / 0 SpA / 4 SpD / 220 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Now Testing:
+Corviknight
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Bulk Up
+- Taunt
+- Body Press
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Power Gem
+
+Primarina @ Life Orb
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 44 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Now Testing:
+Gallade
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 252 Atk / 4 Def / 0 SpA / 4 SpD / 36 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sacred Sword
+- Wide Guard
+- Night Slash
+- Destiny Bond
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Nasty Plot
+- Trick
+- Power Gem
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Primarina @ Throat Spray
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 36 Def / 188 SpA / 4 SpD / 28 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Bulk Up
+- Taunt
+
+Now Testing:
+Jumpluff
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+EVs: 220 HP / 0 Atk / 36 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sleep Powder
+- Sunny Day
+- Rage Powder
+- Pollen Puff
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Corviknight @ Safety Goggles
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 220 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 220 Spe
+Impish Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Roost
+- Tailwind
+- Body Press
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Porygon2 @ Eviolite
+Ability: Download
+Level: 50
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 100 Def / 36 SpA / 116 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Tera Blast
+- Recover
+- Ice Beam
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Now Testing:
+Hydreigon
+
+Hydreigon @ Safety Goggles
+Ability: Levitate
+Level: 50
+Tera Type: Ghost
+EVs: 156 HP / 0 Atk / 44 Def / 52 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Snarl
+- Tailwind
+- Dark Pulse
+- Taunt
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 100 Atk / 4 Def / 0 SpA / 52 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Roost
+- Tailwind
+- Taunt
+- Body Press
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Taunt
+
+Now Testing:
+Charizard
+
+Charizard @ Choice Scarf
+Ability: Solar Power
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Heat Wave
+- Overheat
+- Air Slash
+- Solar Beam
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 116 HP / 204 Atk / 0 Def / 0 SpA / 0 SpD / 188 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Nasty Plot
+- Trick
+- Power Gem
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 0 Def / 252 SpA / 44 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Corviknight @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 244 SpD / 12 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Bulk Up
+- Taunt
+- Body Press
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 212 HP / 252 Atk / 4 Def / 0 SpA / 4 SpD / 36 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sacred Sword
+- Trick Room
+- Wide Guard
+- Destiny Bond
+
+Now Testing:
+Excadrill
+
+Excadrill @ Clear Amulet
+Ability: Sand Rush
+Level: 50
+Tera Type: Stellar
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Iron Head
+- High Horsepower
+- Earthquake
+- Rock Slide
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Dual Wingbeat
+
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+Tera Type: Water
+EVs: 212 HP / 0 Atk / 68 Def / 196 SpA / 28 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Skill Swap
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Gallade @ Focus Sash
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 220 HP / 252 Atk / 0 Def / 0 SpA / 36 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Sacred Sword
+- Psycho Cut
+- Night Slash
+- Destiny Bond
+
+Tyranitar @ Assault Vest
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 108 HP / 124 Atk / 12 Def / 0 SpA / 12 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Now Testing:
+Armarouge
+
+Armarouge @ Life Orb
+Ability: Weak Armor
+Level: 50
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 124 Def / 204 SpA / 0 SpD / 180 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Heat Wave
+- Wide Guard
+- Stored Power
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 228 HP / 0 Atk / 52 Def / 212 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Archaludon @ Power Herb
+Ability: Stalwart
+Level: 50
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electro Shot
+- Body Press
+- Draco Meteor
+- Snarl
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Now Testing:
+Zoroark-Hisui
+
+Zoroark-Hisui @ Life Orb
+Ability: Illusion
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Icy Wind
+- Bitter Malice
+- Hyper Beam
+- Fake Tears
+
+Annihilape @ Choice Scarf
+Ability: Defiant
+Level: 50
+Tera Type: Fire
+EVs: 180 HP / 68 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Final Gambit
+- Taunt
+- Coaching
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 28 Def / 0 SpA / 228 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Primarina @ Splash Plate
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 36 Def / 188 SpA / 4 SpD / 28 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 244 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Flare Blitz
+- Dual Wingbeat
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Now Testing:
+Baxcalibur
+
+Baxcalibur @ Clear Amulet
+Ability: Thermal Exchange
+Level: 50
+Tera Type: Ghost
+EVs: 12 HP / 252 Atk / 28 Def / 0 SpA / 12 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ice Shard
+- Icicle Spear
+- Scale Shot
+- Glaive Rush
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 36 Def / 0 SpA / 220 SpD / 0 Spe
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Arcanine-Hisui @ Safety Goggles
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 44 HP / 212 Atk / 4 Def / 0 SpA / 4 SpD / 244 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+Tera Type: Dragon
+EVs: 244 HP / 20 Atk / 20 Def / 0 SpA / 116 SpD / 108 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Tailwind
+- Taunt
+- Body Press
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Now Testing:
+Flamigo
+
+Flamigo @ Choice Scarf
+Ability: Scrappy
+Level: 50
+Tera Type: Ghost
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Dual Wingbeat
+- Wide Guard
+- Tailwind
+
+Armarouge @ Psychic Seed
+Ability: Flash Fire
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Heat Wave
+- Wide Guard
+- Aura Sphere
+- Meteor Beam
+
+Tyranitar @ Clear Amulet
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rage Powder
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Primarina @ Splash Plate
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Now Testing:
+Blaziken
+
+Blaziken @ Focus Sash
+Ability: Speed Boost
+Level: 50
+Tera Type: Fire
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Aura Sphere
+- Heat Wave
+- Coaching
+- Detect
+
+Jumpluff @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sleep Powder
+- Tailwind
+- Sunny Day
+- Pollen Puff
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Flare Blitz
+- Taunt
+
+Sinistcha @ Mental Herb
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 4 SpA / 180 SpD / 4 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+Primarina @ Splash Plate
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Calm Mind
+
+Gholdengo @ Leftovers
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Now Testing:
+Murkrow
+
+Murkrow @ Eviolite
+Ability: Prankster
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 140 Def / 0 SpA / 116 SpD / 0 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rain Dance
+- Sunny Day
+- Brave Bird
+- Taunt
+
+Tyranitar @ Choice Band
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 108 HP / 124 Atk / 12 Def / 0 SpA / 12 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Primarina @ Sitrus Berry
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Sinistcha @ Rocky Helmet
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 36 Def / 0 SpA / 220 SpD / 0 Spe
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Now Testing:
+Smeargle
+
+Smeargle @ Focus Sash
+Ability: Moody
+Level: 50
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Spore
+- Fake Out
+- Spiky Shield
+- Wide Guard
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Tyranitar @ Clear Amulet
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Primarina @ Splash Plate
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Now Testing:
+Ribombee
+
+Ribombee @ Focus Sash
+Ability: Shield Dust
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Moonblast
+- Fake Tears
+- Pollen Puff
+
+Gallade @ Clear Amulet
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 148 Atk / 0 Def / 0 SpA / 108 SpD / 0 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Trick Room
+- Psycho Cut
+- Night Slash
+- Destiny Bond
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Will-O-Wisp
+- Taunt
+- Dual Wingbeat
+
+Primarina @ Sitrus Berry
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Trick Room
+- Life Dew
+- Strength Sap
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Now Testing:
+Weezing-Galar
+
+Weezing-Galar @ Sitrus Berry
+Ability: Neutralizing Gas
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 196 SpA / 116 SpD / 76 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Sludge Bomb
+- Dazzling Gleam
+- Taunt
+- Tera Blast
+
+Tyranitar @ Choice Band
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 36 Def / 0 SpA / 220 SpD / 0 Spe
+Sassy Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Strength Sap
+
+Talonflame @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 236 HP / 4 Atk / 36 Def / 0 SpA / 20 SpD / 212 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Taunt
+
+Garchomp @ Leftovers
+Ability: Rough Skin
+Level: 50
+Tera Type: Steel
+EVs: 12 HP / 236 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 20 Def / 180 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Now Testing:
+Salamence
+
+Salamence @ Covert Cloak
+Ability: Moxie
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Air Slash
+- Dragon Claw
+- Heat Wave
+- Rock Slide
+
+Gholdengo @ Choice Scarf
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+Gallade @ Focus Sash
+Ability: Sharpness
+Level: 50
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Sacred Sword
+- Wide Guard
+- Night Slash
+- Destiny Bond
+
+Talonflame @ Sky Plate
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Brave Bird
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Primarina @ Leftovers
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Dazzling Gleam
+- Calm Mind
+- Water Pledge
+
+Sinistcha @ Mental Herb
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Now Testing:
+Garganacl
+
+Garganacl @ Maranga Berry
+Ability: Purifying Salt
+Level: 50
+Tera Type: Flying
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Salt Cure
+- Recover
+- Stealth Rock
+- Wide Guard
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Will-O-Wisp
+- Brave Bird
+- Taunt
+- Dual Wingbeat
+
+Gholdengo @ Iron Plate
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Trick
+- Power Gem
+
+Primarina @ Assault Vest
+Ability: Liquid Voice
+Level: 50
+Tera Type: Poison
+EVs: 108 HP / 0 Atk / 12 Def / 188 SpA / 4 SpD / 196 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Water Pledge
+
+Archaludon @ Power Herb
+Ability: Stalwart
+Level: 50
+Tera Type: Fighting
+EVs: 244 HP / 0 Atk / 76 Def / 4 SpA / 172 SpD / 12 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Electro Shot
+- Flash Cannon
+- Draco Meteor
+- Dragon Pulse
+
+Now Testing:
+Glimmora
+
+Glimmora @ Assault Vest
+Ability: Toxic Debris
+Level: 50
+Tera Type: Grass
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earth Power
+- Meteor Beam
+- Mortal Spin
+- Power Gem
+
+Sinistcha @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+Tera Type: Dark
+EVs: 244 HP / 0 Atk / 28 Def / 4 SpA / 188 SpD / 44 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Rage Powder
+- Life Dew
+- Strength Sap
+
+Talonflame @ Life Orb
+Ability: Gale Wings
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 36 Atk / 4 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tailwind
+- Flare Blitz
+- Taunt
+- Dual Wingbeat
+
+Garchomp @ Clear Amulet
+Ability: Sand Veil
+Level: 50
+Tera Type: Steel
+EVs: 12 HP / 236 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Earthquake
+- Stomping Tantrum
+- Dragon Claw
+- Protect
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Shadow Ball
+- Nasty Plot
+- Trick
+- Power Gem
+
+Tyranitar @ Focus Sash
+Ability: Sand Stream
+Level: 50
+Tera Type: Flying
+EVs: 100 HP / 132 Atk / 12 Def / 0 SpA / 60 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
