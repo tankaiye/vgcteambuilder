@@ -1,0 +1,26 @@
+Acid Spray
+Aura Sphere
+Barrage	
+Beak Blast
+Bullet Seed
+Egg Bomb		
+Electro Ball
+Energy Ball
+Focus Blast
+Gyro Ball
+Ice Ball
+Magnet Bomb	
+Mist Ball
+Mud Bomb
+Octazooka
+Pollen Puff
+Pyro Ball
+Rock Blast
+Rock Wrecker
+Searing Shot	
+Seed Bomb
+Syrup Bomb
+Shadow Ball
+Sludge Bomb
+Weather Ball
+Zap Cannon
