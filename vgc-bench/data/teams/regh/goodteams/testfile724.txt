@@ -1,0 +1,72 @@
+
+Rillaboom @ Coba Berry
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 196 Atk / 4 Def / 0 SpA / 20 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Grassy Glide
+- Wood Hammer
+- High Horsepower
+- Fake Out
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Steel
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Rage Fist
+- Coaching
+- Final Gambit
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Fairy
+EVs: 12 HP / 236 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Tailwind
+- Scale Shot
+- Haze
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 116 HP / 0 Atk / 4 Def / 132 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+
+Magmar @ Eviolite
+Ability: Vital Spirit
+Level: 50
+Tera Type: Ghost
+EVs: 244 HP / 0 Atk / 180 Def / 4 SpA / 60 SpD / 20 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Follow Me
+- Heat Wave
+- Will-O-Wisp
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+EVs: 164 HP / 0 Atk / 4 Def / 116 SpA / 220 SpD / 4 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Blood Moon
+- Earth Power
+- Vacuum Wave

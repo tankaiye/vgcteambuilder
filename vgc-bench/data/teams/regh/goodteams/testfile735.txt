@@ -1,0 +1,72 @@
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+EVs: 244 HP / 0 Atk / 76 Def / 4 SpA / 172 SpD / 12 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Draco Meteor
+- Electro Shot
+- Flash Cannon
+- Protect
+
+Basculegion @ Focus Sash
+Ability: Adaptability
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wave Crash
+- Last Respects
+- Aqua Jet
+- Protect
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind’s Eye
+Level: 50
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blood Moon
+- Earth Power
+- Hyper Voice
+- Vacuum Wave
+
+Pelipper @ Rocky Helmet
+Ability: Drizzle
+Level: 50
+Tera Type: Steel
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Weather Ball
+- Hurricane
+- Muddy Water
+- Wide Guard
+
+Whimsicott @ Covert Cloak
+Ability: Prankster
+Level: 50
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 12 Def / 4 SpA / 92 SpD / 148 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Moonblast
+- Taunt
+- Fake Tears
+- Tailwind
+
+Gholdengo @ Life Orb
+Ability: Good as Gold
+Level: 50
+Tera Type: Fighting
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Tera Blast
+- Protect

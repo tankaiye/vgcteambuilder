@@ -1,0 +1,72 @@
+
+Dondozo @ Leftovers
+Ability: Unaware
+Level: 50
+Tera Type: Grass
+EVs: 244 HP / 4 Atk / 60 Def / 0 SpA / 196 SpD / 4 Spe
+Careful Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Wave Crash
+- Fissure
+- Yawn
+
+Kingambit @ Safety Goggles
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+EVs: 236 HP / 196 Atk / 0 Def / 0 SpA / 76 SpD / 0 Spe
+Brave Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Protect
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 108 HP / 140 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wood Hammer
+- Grassy Glide
+- High Horsepower
+- Fake Out
+
+Baxcalibur @ Loaded Dice
+Ability: Thermal Exchange
+Level: 50
+Tera Type: Ghost
+EVs: 12 HP / 252 Atk / 28 Def / 0 SpA / 12 SpD / 204 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Protect
+- Ice Shard
+- Scale Shot
+- Icicle Spear
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Fairy
+EVs: 156 HP / 0 Atk / 84 Def / 12 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tera Blast
+- Quiver Dance
+- Heat Wave
+- Rage Powder
+
+Sneasler @ Focus Sash
+Ability: Unburden
+Level: 50
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Fake Out
+- Close Combat
+- Dire Claw
+- Coaching

@@ -1,0 +1,72 @@
+
+Arcanine-Hisui @ Mirror Herb
+Ability: Intimidate
+Level: 50
+Tera Type: Water
+EVs: 180 HP / 44 Atk / 12 Def / 0 SpA / 20 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Protect
+
+Ninetales-Alola @ Covert Cloak
+Ability: Snow Warning
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Blizzard
+- Icy Wind
+- Disable
+- Aurora Veil
+
+Gholdengo @ Grassy Seed
+Ability: Good as Gold
+Level: 50
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Protect
+
+Dragonite @ Loaded Dice
+Ability: Multiscale
+Level: 50
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scale Shot
+- Encore
+- Tailwind
+- Protect
+
+Rillaboom @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+Tera Type: Fire
+EVs: 188 HP / 196 Atk / 4 Def / 0 SpA / 20 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wood Hammer
+- High Horsepower
+- Grassy Glide
+- Fake Out
+
+Annihilape @ Focus Sash
+Ability: Defiant
+Level: 50
+Tera Type: Normal
+EVs: 180 HP / 68 Atk / 4 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Close Combat
+- Rage Fist
+- Taunt
+- Coaching
