@@ -1,0 +1,72 @@
+
+Sneasler @ Psychic Seed
+Ability: Unburden
+Level: 50
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dire Claw
+- Close Combat
+- Throat Chop
+- Protect
+
+Volcarona @ Covert Cloak
+Ability: Flame Body
+Level: 50
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 116 Def / 36 SpA / 4 SpD / 100 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Flamethrower
+- Struggle Bug
+- Rage Powder
+- Tailwind
+
+Sinistcha @ Sitrus Berry
+Ability: Heatproof
+Level: 50
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 68 Def / 0 SpA / 188 SpD / 0 Spe
+Calm Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Matcha Gotcha
+- Strength Sap
+- Calm Mind
+- Trick Room
+
+Archaludon @ Power Herb
+Ability: Sturdy
+Level: 50
+Tera Type: Electric
+EVs: 244 HP / 0 Atk / 76 Def / 4 SpA / 172 SpD / 12 Spe
+Bold Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Dragon Pulse
+- Electro Shot
+- Thunderbolt
+- Protect
+
+Primarina @ Choice Specs
+Ability: Liquid Voice
+Level: 50
+Tera Type: Grass
+EVs: 52 HP / 0 Atk / 4 Def / 196 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hyper Voice
+- Moonblast
+- Dazzling Gleam
+- Uproar
+
+Indeedee @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Expanding Force
+- Tera Blast
+- Helping Hand
+- Protect

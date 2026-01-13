@@ -1,0 +1,72 @@
+
+Kingambit @ Dread Plate
+Ability: Defiant
+Level: 50
+Tera Type: Dark
+EVs: 180 HP / 252 Atk / 4 Def / 0 SpA / 4 SpD / 68 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Kowtow Cleave
+- Sucker Punch
+- Swords Dance
+- Protect
+
+Hatterene @ Covert Cloak
+Ability: Magic Bounce
+Level: 50
+Tera Type: Fire
+EVs: 212 HP / 0 Atk / 68 Def / 196 SpA / 28 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Dazzling Gleam
+- Expanding Force
+- Skill Swap
+- Trick Room
+
+Indeedee-F @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+Tera Type: Ghost
+EVs: 236 HP / 0 Atk / 252 Def / 0 SpA / 20 SpD / 0 Spe
+Relaxed Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Trick Room
+- Follow Me
+- Helping Hand
+- Psychic
+
+Rillaboom @ Life Orb
+Ability: Grassy Surge
+Level: 50
+Tera Type: Grass
+EVs: 188 HP / 196 Atk / 4 Def / 0 SpA / 20 SpD / 100 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Wood Hammer
+- Grassy Glide
+- Fake Out
+- High Horsepower
+
+Torkoal @ Choice Specs
+Ability: Drought
+Level: 50
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 0 Spe
+- Eruption
+- Heat Wave
+- Earth Power
+- Weather Ball
+
+Ursaluna @ Flame Orb
+Ability: Guts
+Level: 50
+Tera Type: Ghost
+EVs: 12 HP / 244 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Facade
+- Protect
+- Earthquake
+- Headlong Rush
